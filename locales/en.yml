@@ -2178,7 +2178,7 @@ en:
   mobile:
     alerts:
       title: Alerts
-      subtitle: "Here are your alerts for the stocks you're currently watching"
+      subtitle: "Here are alerts for the stocks you're watching"
     common:
       delete:
         confirmation: "Are you sure you want to delete '%n'?"
@@ -2192,8 +2192,8 @@ en:
         newPassword: Desired Password
     connect:
       connecting:
-        title: Loggin In
-        subtitle: These are your brokerage details so we can fetch your portolio
+        title: Logging In
+        subtitle: These are your brokerage details so we can fetch your portfolio
         status: Connecting
       connected:
         title: Trading Activiated
@@ -2203,20 +2203,20 @@ en:
         username: "Username / Email"
         connectBtn: "Login to %n"
       noAccount: "I don't have a brokerage"
-      info: "By clicking 'login' you're agreeing to the terms and conditions set out by Stockflare"
+      info: "By clicking 'login' you agree to our terms of service"
     explore:
       title: Explore stocks
-      subtitle: Explore our stocks that we've put into convenient buckets
+      subtitle: Explore stocks within different / convenient baskets
     homepage:
       title: "Pick stocks easily"
-      subtitle: "Pick and Browse stocks easily with our unique system"
+      subtitle: "Pick stocks easily using our unique ratings"
       createAccount: "Create Free Account"
       viewMore:
         stocks: "View more stocks"
         themes: "View more themes"
       logged:
         title: "Welcome back"
-        subtitle: "You can now browse alerts and watchlist"
+        subtitle: "Now you can browse alerts and watchlist"
     forgotPassword:
       button: Request New Password
       sent: Password sent
@@ -2224,7 +2224,7 @@ en:
       backButton: Back Home
     search:
       title: "Searching 53,000 Stocks"
-      subtitle: "We'are going on an adventure"
+      subtitle: "We are going on an adventure"
       noResults: "Sorry we can't find anything"
     stock:
       latest: Latest results
