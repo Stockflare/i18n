@@ -138,7 +138,7 @@ en:
             secure: How secure is the connection?
           title: Frequently Asked Questions
         no_brokerage:
-          description: Check out %_blank(this article){http://bitly.com/ComparingBrokers} where we compare all the brokerage services we are connected into.
+          description: Check out %_blank(this link){http://brokerages.stockflare.com/} where you can pick the brokerage that's right for you.
           title: No brokerage? No problem.
       security:
         button: Finish
