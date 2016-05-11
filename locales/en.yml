@@ -165,6 +165,7 @@ en:
         trade:
           description: Find a great stock? Connect your brokerage account, then trade quickly and easily from inside Stockflare.
           title: Trade through Stockflare
+        no_brokerage: "I don't have a Brokerage"
       title: Connect Brokerage
     flash:
       positions_not_refreshed: We couldn't contact your brokerage to refresh your positions
