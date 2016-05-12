@@ -1913,16 +1913,16 @@ ja:
       value: 市場価値
       website: 会社のウェブサイト
     targetPrice:
-      decrease: '%t(否定的側面){否定的側面}.'
+      decrease: '%t(downside){否定的側面}.'
       description: 今日の価格は%n
       equal: 変わってません
-      increase: '%t(利点){利点}.'
+      increase: '%t(upside){利点}.'
       recommendations:
-        buy: ウォール街の%t(勧め){勧め}は買う
-        hold: ウォール街の%t(勧告){勧告}はホールドする
-        sell: ウォール街の%t(勧め){勧め}は売る。
-        strong_buy: ウォールストリートの%t(推奨){推奨} は強い買いです。
-        strong_sell: ウォールストリートの%t(推奨){推奨} は強い売りです。
+        buy: ウォール街の%t(recommendation){勧め}は買う
+        hold: ウォール街の%t(recommendation){勧告}はホールドする
+        sell: ウォール街の%t(recommendation){勧め}は売る。
+        strong_buy: ウォールストリートの%t(recommendation){推奨} は強い買いです。
+        strong_sell: ウォールストリートの%t(recommendation){推奨} は強い売りです。
       title: ウォール街の目標価格
     worth:
       annotations:
