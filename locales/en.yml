@@ -2222,9 +2222,9 @@ en:
       button: Request New Password
       sent: Password sent
       confirmation: Please check your registered email address
-      backButton: Back Home
+      backButton: Back/ Home
     search:
-      title: "Searching 53,000 Stocks"
+      title: "Searching over 50,000 Stocks"
       subtitle: "We are going on an adventure"
       noResults: "Sorry we can't find anything"
     stock:
