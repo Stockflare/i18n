@@ -127,6 +127,8 @@ en:
         to_portfolio: Go to Portfolio
         to_stock: Trade %n?
       help:
+        login:
+          robinhood: Login using your account email address and password.
         assistance:
           description: Click here if you need our help connecting your account or have any questions about our service.
           title: Need Assistance?
