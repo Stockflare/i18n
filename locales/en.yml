@@ -117,7 +117,7 @@ en:
         login: Checking Login Details
       details:
         button: Login & Connect
-        conditions: By clicking "Login & Connect" you are agreeing to Stockflare Terms of Service.
+        conditions: By clicking "Login & Connect" you are agreeing to Stockflare's Terms of Service.
         id: Brokerage User ID
         password: Brokerage Password
         username: Brokerage Username
