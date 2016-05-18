@@ -129,7 +129,7 @@ en:
         to_stock: Trade %n?
       help:
         login:
-          robinhood: "Having difficulty connecting your Robinhood account? Please check you are entering your Robinhood username, not your email address. Also, it's your password, not your PIN number. Many thanks."
+          robinhood: "Having difficulty connecting your Robinhood account? Please check you are entering your Robinhood username, not your email address. Also, it's your password, not your PIN number."
         assistance:
           description: Click here if you need our help connecting your account or have any questions about our service.
           title: Need Assistance?
