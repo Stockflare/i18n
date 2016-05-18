@@ -2296,6 +2296,11 @@ en:
         label: Time
         gtc: Good until cancel
         day: Good for Day
+      success:
+        title: Trade Executed
+        subtitle: Below you can choose where to go
+        portfolioBtn: Go to Portfolio
+        stockBtn: "Back to %n"
     watchlist:
       newWatchlist: Create Watchlist
       selectWatchlist: Select watchlist
