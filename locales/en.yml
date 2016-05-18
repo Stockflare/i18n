@@ -2272,7 +2272,7 @@ en:
           na: No forecasts available
     trade:
       choose: Choose Brokerage
-      brokeraage: Brokerage
+      brokerage: Brokerage
       buy: Buy
       sell: Sell
       trade: Trade
