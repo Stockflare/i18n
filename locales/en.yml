@@ -791,7 +791,7 @@ en:
         pgk: K%n
         php: ₱%n
         pkr: ₨%n
-        pln: '%n zł' 
+        pln: '%n zł'
         pyg: Gs%n
         qar: ﷼%n
         ron: lei%n
@@ -2270,6 +2270,32 @@ en:
             dividend: Dividend
             yieldOf: "Yield of %n%"
           na: No forecasts available
+    trade:
+      choose: Choose Brokerage
+      brokeraage: Brokerage
+      buy: Buy
+      sell: Sell
+      trade: Trade
+      quantity: Quantity
+      advanced: Advanced Settings
+      simple: Simple Setting
+      preview: Preview Order
+      estimatedFees: Estimated Fees
+      estimatedCost: Estimated Cost
+      estimatedReturn: Estimated Return
+      ticker: Ticker
+      placeOrder: Place Order
+      change: Change
+      buyLimit: Limit
+      sellLimit: Return
+      type:
+        label: Order type
+        limit: Limit Order
+        market: Market Order
+      expiration:
+        label: Time
+        gtc: Good until cancel
+        day: Good for Day
     watchlist:
       newWatchlist: Create Watchlist
       selectWatchlist: Select watchlist
