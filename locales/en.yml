@@ -121,6 +121,7 @@ en:
         id: Brokerage User ID
         password: Brokerage Password
         username: Brokerage Username
+        account: Brokerage Account Number
       final:
         description: Do a trade immediately? Or check out our smart analysis of your portfolio?
         title: Trading Activated
