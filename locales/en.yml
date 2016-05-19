@@ -2194,6 +2194,7 @@ en:
         email: Email Address
         password: Password
         newPassword: Desired Password
+      search: Search
     connect:
       connecting:
         title: Logging In
@@ -2302,6 +2303,7 @@ en:
         portfolioBtn: Go to Portfolio
         stockBtn: "Back to %n"
     watchlist:
-      newWatchlist: Create Watchlist
+      newWatchlist: Create watchlist
+      inputLabel: Watchlist Name
       selectWatchlist: Select watchlist
       subtitle: "Your watchlists are listed by Market Value"
