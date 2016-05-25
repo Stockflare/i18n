@@ -2183,6 +2183,14 @@ en:
       unlink: "Unlink broker %n and delete account information"
       unlinkError: "Cound not unlink your account"
   mobile:
+    about:
+      links:
+        contact: Contact us
+        faq: FAQ
+        about: About us
+        data: Our data partners
+        tos: Terms of service
+        privacy: Privacy policy
     alerts:
       title: Alerts
       subtitle: "Here are alerts for the stocks you're watching"
