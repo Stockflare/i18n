@@ -3,10 +3,10 @@ en:
     stars:
       positive: '%short_name has gained a star, now a %rating star stock.'
       negative: '%short_name has lost a star, now a %rating star stock.'
-    price_smallcap:
+    price_small_cap:
       positive: '%short_name rose %price_change yesterday.'
       negative: '%short_name fell %price_change yesterday.'
-    price_largecap:
+    price_large_cap:
       positive: '%short_name rose %price_change yesterday.'
       negative: '%short_name fell %price_change yesterday.'
     volume_ten_day:
