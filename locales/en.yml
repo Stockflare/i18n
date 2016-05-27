@@ -48,7 +48,7 @@ en:
     dps_trend:
       positive: 'The forecast dividend for %short_name has increased to %forecast_dps per share from %forecast_dps_one_week_ago in the last week.'
       negative: 'The forecast dividend for %short_name has decreased to %forecast_dps per share from %forecast_dps_one_week_ago in the last week.'
-    dps_turns:
+    dps_turn:
       positive: '%short_name is now forecast to pay a dividend of %forecast_dps. Previously, no dividend was forecast.'
       negative: '%short_name is now forecast to pay no dividend. Previously a dividend per share of %forecast_dps_yesterday was forecast.'
     dps_warning:
