@@ -24,7 +24,7 @@ en:
     growth_trend:
       positive: 'The long term growth forecast for %short_name has increased substantially in the last week to %long_term_growth from %long_term_growth_one_week_ago.'
       negative: 'The long term growth forecast for %short_name has decreased substantially in the last week to %long_term_growth from %long_term_growth_one_week_ago.'
-    growth_turns:
+    growth_turn:
       positive: 'The long term growth forecast for %short_name has just turned positive at %long_term_growth from %long_term_growth_yesterday yesterday.'
       negative: 'The long term growth forecast for %short_name has just turned negative at %long_term_growth from %long_term_growth_yesterday yesterday.'
     sales_trend:
@@ -33,13 +33,13 @@ en:
     target_trend:
       positive: 'The target price for %short_name has increased to %target_price from %target_price_one_week_ago in the last week.'
       negative: 'The target price for %short_name has fallen to %target_price from %target_price_one_week_ago in the last week.'
-    target_turns:
+    target_turn:
       positive: 'The target price for %short_name of %target_price is now above that latest price of %price.'
       negative: '%short_name current price of %price is now higher than the target price of %target_price.'
     eps_trend:
       positive: 'The forecast EPS for %short_name has increased to %forecast_eps from %forecast_eps_one_week_ago in the last week.'
       negative: 'The forecast EPS for %short_name has decreased to %forecast_eps from %forecast_eps_one_week_ago in the last week.'
-    eps_turns:
+    eps_turn:
       positive: 'The forecast EPS for %short_name has been upgraded to a profit of %forecast_eps. The old forecast was for a loss of %forecast_eps_yesterday.'
       negative: 'The forecast EPS for %short_name has been downgraded to a loss of %forecast_eps. The old forecast was for a profit of %forecast_eps_yesterday.'
     eps_growth:
@@ -69,7 +69,7 @@ en:
     gain_trend:
       positive: "The forecast long term gain for %short_name has increased substantially in the last week to %long_term_gain from %long_term_gain_one_week_ago."
       negative: "The forecast long term gain for %short_name has decreased substantially in the last week to %long_term_gain from %long_term_gain_one_week_ago."
-    gain_turns:
+    gain_turn:
       positive: 'The forecast long term gain for %short_name has just turned positive at %long_term_gain from %long_term_gain_yesterday yesterday.'
       negative: 'The forecast long term gain for %short_name has just turned negative at %long_term_gain from %long_term_gain_yesterday yesterday.'
     stars_peers:
