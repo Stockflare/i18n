@@ -1,4 +1,87 @@
 en:
+  notifications:
+    stars:
+      positive: '%short_name has gained a star, now a %rating star stock.'
+      negative: '%short_name has lost a star, now a %rating star stock.'
+    price_smallcap:
+      positive: '%short_name rose %price_change yesterday.'
+      negative: '%short_name fell %price_change yesterday.'
+    price_largecap:
+      positive: '%short_name rose %price_change yesterday.'
+      negative: '%short_name fell %price_change yesterday.'
+    volume_ten_day:
+      positive: '%short_name price was up %price_change in heavy trading yesterday.'
+      negative: '%short_name price was down %price_change in heavy trading yesterday.'
+    recommendation:
+      positive: 'The recommendation for %short_name has been upgraded to %recommendation_text.'
+      negative: 'The recommendation for %short_name has been downgraded to %recommendation_text.'
+    price_peer:
+      positive: 'A peer of %short_name, %peer_short_name was up %peer_price_change yesterday.'
+      negative: 'A peer of %short_name, %peer_short_name was down %peer_price_change yesterday.'
+    pe:
+      positive: '%short_name is significantly cheaper today at %forecast_pe than it was a week ago at %forecast_pe_one_week_ago.'
+      negative: '%short_name is significantly expensive today at %forecast_pe than it was a week ago at %forecast_pe_one_week_ago.'
+    growth_trend:
+      positive: 'The long term growth forecast for %short_name has increased substantially in the last week to %long_term_growth from %long_term_growth_one_week_ago.'
+      negative: 'The long term growth forecast for %short_name has decreased substantially in the last week to %long_term_growth from %long_term_growth_one_week_ago.'
+    growth_turns:
+      positive: 'The long term growth forecast for %short_name has just turned positive at %long_term_growth from %long_term_growth_yesterday yesterday.'
+      negative: 'The long term growth forecast for %short_name has just turned negative at %long_term_growth from %long_term_growth_yesterday yesterday.'
+    sales_trend:
+      positive: 'Forecast sales for %short_name are now forecast to rise this year.'
+      negative: 'Forecast sales for %short_name are no longer forecast to rise this year.'
+    target_trend:
+      positive: 'The target price for %short_name has increased to %target_price from %target_price_one_week_ago in the last week.'
+      negative: 'The target price for %short_name has fallen to %target_price from %target_price_one_week_ago in the last week.'
+    target_turns:
+      positive: 'The target price for %short_name of %target_price is now above that latest price of %price.'
+      negative: '%short_name current price of %price is now higher than the target price of %target_price.'
+    eps_trend:
+      positive: 'The forecast EPS for %short_name has increased to %forecast_eps from %forecast_eps_one_week_ago in the last week.'
+      negative: 'The forecast EPS for %short_name has decreased to %forecast_eps from %forecast_eps_one_week_ago in the last week.'
+    eps_turns:
+      positive: 'The forecast EPS for %short_name has been upgraded to a profit of %forecast_eps. The old forecast was for a loss of %forecast_eps_yesterday.'
+      negative: 'The forecast EPS for %short_name has been downgraded to a loss of %forecast_eps. The old forecast was for a profit of %forecast_eps_yesterday.'
+    eps_growth:
+      positive: 'The earnings of %short_name are now forecast to grow.'
+      negative: 'The earnings of %short_name are now forecast to decline.'
+    dps_trend:
+      positive: 'The forecast dividend for %short_name has increased to %forecast_dps per share from %forecast_eps_one_week_ago in the last week.'
+      negative: 'The forecast dividend for %short_name has decreased to %forecast_dps per share from %forecast_eps_one_week_ago in the last week.'
+    dps_turns:
+      positive: '%short_name is now forecast to pay a dividend of %forecast_dps. Previously, no dividend was forecast.'
+      negative: '%short_name is now forecast to pay no dividend. Previously a dividend per share of %forecast_dps_yesterday was forecast.'
+    dps_warning:
+      positive: '%short_name is now forecast to report more earnings than dividends. Previously the forecast earnings were not sufficient to cover the expected dividend payment.'
+      negative: '%short_name forecast earnings per share of %forecast_eps are no longer expected to be sufficient to cover forecast dividends of %forecast_dps per share.'
+    dps_growth:
+      positive: 'The dividend per share of %short_name is now forecast to grow.'
+      negative: 'The dividend per share of %short_name is now forecast to decline.'
+    debt_net:
+      positive: '%short_name now holds net cash equal to %net_cash_to_share_price of its share price. Previously it was in a net debt position.'
+      negative: '%short_name has moved into a position of net debt, having previously run a net cash balance.'
+    debt_danger:
+      positive: '%short_name net debt to operating ratio has fallen to %net_debt_to_operating_profit.'
+      negative: '%short_name net debt to operating ratio has risen to %net_debt_to_operating_profit.'
+    cash:
+      positive: "%short_name has seen a big increase in it's net cash position to %net_cash_to_share_price of its share price."
+      negative: "%short_name has seen a big decline in it's net cash position to %net_cash_to_share_price of its share price."
+    gain_trend:
+      positive: "The forecast long term gain for %short_name has increased substantially in the last week to %long_term_gain from %long_term_gain_one_week_ago."
+      negative: "The forecast long term gain for %short_name has decreased substantially in the last week to %long_term_gain from %long_term_gain_one_week_ago."
+    gain_turns:
+      positive: 'The forecast long term gain for %short_name has just turned positive at %long_term_gain from %long_term_gain_yesterday yesterday.'
+      negative: 'The forecast long term gain for %short_name has just turned negative at %long_term_gain from %long_term_gain_yesterday yesterday.'
+    stars_peers:
+      negative: '%short_name has fallen to a %rating star rating. Here is a list of its peers that are 4+ star stocks: %tickers.'
+    price_eps_one_week:
+      positive: "%short_name's price has fallen %price_change_one_week but the forecast earnings are %forecast_eps_change_one_week over the last week."
+    price_eps_one_month:
+      positive: "%short_name's price has fallen %price_change_one_month but the forecast earnings are %forecast_eps_change_one_month over the last month."
+    eps_price_one_week:
+      positive: "%short_name's forecast earnings are up %forecast_eps_change_one_week over the last week, but the price has price has %price_change_one_week. It's PE ratio is now %forecast_pe."
+    eps_price_one_month:
+      positive: "%short_name's forecast earnings are up %forecast_eps_change_one_month over the last month, but the price has %price_change_one_month. It's PE ratio is now %forecast_pe."
   about:
     disclaimer: Stockflare provides information, not advice. Stockflare does not make recommendations. Any reference to “Buy”, “Sell”, “Hold”, or “Price Targets” for stocks, reflect the views of the “Wall Street” consensus.
     from: Select data from
