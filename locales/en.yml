@@ -2384,6 +2384,8 @@ en:
       change: Change
       buyLimit: Limit
       sellLimit: Return
+      warning:
+        quantity: "Quantity can't bet higher than %n"
       type:
         label: Order type
         limit: Limit Order
