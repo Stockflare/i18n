@@ -2311,6 +2311,7 @@ en:
       title: "Pick stocks easily"
       subtitle: "Pick stocks easily using our unique ratings"
       createAccount: "Create Free Account"
+      portfolios: Portfolios
       viewMore:
         stocks: "View more stocks"
         themes: "View more themes"
@@ -2399,6 +2400,9 @@ en:
         subtitle: Below you can choose where to go
         portfolioBtn: Go to Portfolio
         stockBtn: "Back to %n"
+    portfolios:
+      title: Portfolios
+      subtitle: Browse your accounts
     watchlist:
       newWatchlist: Create watchlist
       inputLabel: Watchlist Name
