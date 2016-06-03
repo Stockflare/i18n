@@ -2312,6 +2312,7 @@ en:
       subtitle: "Pick stocks easily using our unique ratings"
       createAccount: "Create Free Account"
       portfolios: Portfolios
+      settings: Settings
       viewMore:
         stocks: "View more stocks"
         themes: "View more themes"
@@ -2403,6 +2404,21 @@ en:
     portfolios:
       title: Portfolios
       subtitle: Browse your accounts
+    settings:
+      title: My Settings
+      subtitle: Change your personal setting here for Stockflare
+      accountDetails:
+        heading: My Details
+        email: Email
+        currentPassword: CUrrent Password
+        newPassword: New Password
+      userDetails:
+        heading: Protected Details
+        name: Full Name
+        country: Location
+        language: Language
+      saveBtn: Apply Changes
+      logoutBtn: Logout
     watchlist:
       newWatchlist: Create watchlist
       inputLabel: Watchlist Name
