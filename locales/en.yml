@@ -2408,12 +2408,12 @@ en:
       title: My Settings
       subtitle: Change your personal setting here for Stockflare
       accountDetails:
-        heading: My Details
+        heading: Protected Details
         email: Email
-        currentPassword: CUrrent Password
+        currentPassword: Current Password
         newPassword: New Password
       userDetails:
-        heading: Protected Details
+        heading: My Details
         name: Full Name
         country: Location
         language: Language
