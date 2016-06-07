@@ -2421,6 +2421,7 @@ en:
       logoutBtn: Logout
     watchlist:
       newWatchlist: Create watchlist
+      myWatchlist: My Watchlist
       inputLabel: Watchlist Name
       selectWatchlist: Select watchlist
       subtitle: "Your watchlists are listed by Market Value"
