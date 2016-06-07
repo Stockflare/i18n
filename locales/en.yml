@@ -1,5 +1,11 @@
 en:
   notifications:
+    price_interday:
+      positive: '%short_name is up %price_change today.'
+      negative: '%short_name is down %price_change today.'
+    volume_interday:
+      positive: 'Heavy trading in %short_name today, the price is up %price_change.'
+      negative: 'Heavy trading in %short_name today, the price is down %price_change.'
     stars:
       positive: '%short_name has gained a star, now a %rating star stock.'
       negative: '%short_name has lost a star, now a %rating star stock.'
