@@ -2404,6 +2404,10 @@ en:
     portfolios:
       title: Portfolios
       subtitle: Browse your accounts
+    portfolio:
+      reConnect:
+        title: Your account needs Reauthenticating
+        text: Your account does this every 30 days for security
     settings:
       title: My Settings
       subtitle: Change your personal setting here for Stockflare
