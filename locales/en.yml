@@ -2277,6 +2277,9 @@ en:
     alerts:
       title: Alerts
       subtitle: "Here are alerts for the stocks you're watching"
+      empty:
+        title: No Alerts Today
+        text: There are no alerts for the stocks you are watching
     common:
       delete:
         confirmation: "Are you sure you want to delete '%n'?"
@@ -2404,6 +2407,9 @@ en:
     portfolios:
       title: Portfolios
       subtitle: Browse your accounts
+      empty:
+        title: No Brokerages Connected
+        text: "You've not connected a brokerage account to Stockflare. Why not give it a go?"
     portfolio:
       reConnect:
         title: Your account needs Reauthenticating
