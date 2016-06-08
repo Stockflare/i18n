@@ -2316,6 +2316,7 @@ en:
       createAccount: "Create Free Account"
       portfolios: Portfolios
       settings: Settings
+      desktopVersionLabel: Switch to desktop version
       viewMore:
         stocks: "View more stocks"
         themes: "View more themes"
