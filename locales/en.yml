@@ -2407,6 +2407,9 @@ en:
     portfolios:
       title: Portfolios
       subtitle: Browse your accounts
+      empty:
+        title: No Brokerages Connected
+        text: "You've not connected a brokerage account to Stockflare. Why not give it a go?"
     portfolio:
       reConnect:
         title: Your account needs Reauthenticating
