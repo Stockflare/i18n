@@ -1,9 +1,9 @@
 en:
   notifications:
-    price_interday:
+    price_intraday:
       positive: '%short_name is up %price_change today.'
       negative: '%short_name is down %price_change today.'
-    volume_interday:
+    volume_intraday:
       positive: 'Heavy trading in %short_name today, the price is up %price_change.'
       negative: 'Heavy trading in %short_name today, the price is down %price_change.'
     stars:
