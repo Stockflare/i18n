@@ -1522,6 +1522,7 @@ en:
         title: Welcome back
       subtitle: Pick and Browse stocks easily with our unique system
       title: Pick stock easily
+      market: "Here's our analysis on the 3 largest stocks in the US"
       viewMore:
         stocks: View more stocks
         themes: View more themes
