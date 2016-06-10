@@ -1520,59 +1520,6 @@ en:
       login: Login to Stockflare
       mfa: Secured Account
       social: Social Login (Coming Soon)
-  mobile:
-    homepage:
-      createAccount: Create Free Account
-      logged:
-        subtitle: You can now browse alerts and watchlist
-        title: Welcome back
-      subtitle: Pick and Browse stocks easily with our unique system
-      title: Pick stock easily
-      viewMore:
-        stocks: View more stocks
-        themes: View more themes
-    stock:
-      keyStats:
-        title: Key Stats
-      starRating:
-        cheap:
-          na: No PE Ratio
-          text: '%nx PE vs. competitors on %nx'
-          title:
-            negative: Expensive
-            positive: Cheap
-        dividends:
-          na: No forecasts available
-          negative:
-            text: Not paying dividends
-          positive:
-            text: Dividend %n. Yield of %n%
-          title: Forecast
-        expert:
-          downside: '%n% downside to price target'
-          na: No research from experts
-          noChanges: No difference to price target
-          title: Expert Opinion
-          upside: '%n% upside to price target'
-        profitable:
-          na: No forecasts available
-          text: EPS forecast
-          title:
-            negative: Not Profitable
-            positive: Profitable
-        profitbale:
-          na: No forecasts available
-          text: EPS forecast
-          title:
-            negative: Not Profitable
-            positive: Profitable
-        stronger:
-          na: No growth forecasts
-          text: '%n% growth vs. competitors with %n%'
-          title:
-            negative: Weaker
-            positive: Stronger
-        title: Star Rating
   onboard:
     controls:
       complete: Complete
@@ -2283,6 +2230,12 @@ en:
     alerts:
       title: Alerts
       subtitle: "Here are alerts for the stocks you're watching"
+      empty:
+        title: No Alerts Today
+        text: There are no alerts for the stocks you are watching
+      noAlerts:
+        title: "No Alerts!"
+        text: "You aren't watching any stocks yet. Why not set up a Watchlist?"
     common:
       delete:
         confirmation: "Are you sure you want to delete '%n'?"
@@ -2317,6 +2270,10 @@ en:
       title: "Pick stocks easily"
       subtitle: "Pick stocks easily using our unique ratings"
       createAccount: "Create Free Account"
+      market: "Here's our analysis on the 3 largest stocks in the US"
+      portfolios: Portfolios
+      settings: Settings
+      desktopVersionLabel: Switch to desktop version
       viewMore:
         stocks: "View more stocks"
         themes: "View more themes"
@@ -2384,12 +2341,14 @@ en:
       preview: Preview Order
       estimatedFees: Estimated Fees
       estimatedCost: Estimated Cost
-      estimatedReturn: Estimated Return
+      estimatedReturn: Estimated Proceeds
       ticker: Ticker
       placeOrder: Place Order
       change: Change
       buyLimit: Limit
-      sellLimit: Return
+      sellLimit: Limit
+      warning:
+        quantity: "Quantity can't bet higher than %n"
       type:
         label: Order type
         limit: Limit Order
@@ -2403,8 +2362,34 @@ en:
         subtitle: Below you can choose where to go
         portfolioBtn: Go to Portfolio
         stockBtn: "Back to %n"
+    portfolios:
+      title: Portfolios
+      subtitle: Browse your accounts
+      empty:
+        title: No Brokerages Connected
+        text: "You've not connected a brokerage account to Stockflare. Why not give it a go?"
+    portfolio:
+      reConnect:
+        title: Your account needs Reauthenticating
+        text: Your account does this every 30 days for security
+    settings:
+      title: My Settings
+      subtitle: Change your personal setting here for Stockflare
+      accountDetails:
+        heading: Protected Details
+        email: Email
+        currentPassword: Current Password
+        newPassword: New Password
+      userDetails:
+        heading: My Details
+        name: Full Name
+        country: Location
+        language: Language
+      saveBtn: Apply Changes
+      logoutBtn: Logout
     watchlist:
       newWatchlist: Create watchlist
+      myWatchlist: My Watchlist
       inputLabel: Watchlist Name
       selectWatchlist: Select watchlist
       subtitle: "Your watchlists are listed by Market Value"
