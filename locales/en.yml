@@ -2332,12 +2332,12 @@ en:
       preview: Preview Order
       estimatedFees: Estimated Fees
       estimatedCost: Estimated Cost
-      estimatedReturn: Estimated Return
+      estimatedReturn: Estimated Proceeds
       ticker: Ticker
       placeOrder: Place Order
       change: Change
       buyLimit: Limit
-      sellLimit: Return
+      sellLimit: Limit
       warning:
         quantity: "Quantity can't bet higher than %n"
       type:
