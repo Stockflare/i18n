@@ -1522,7 +1522,6 @@ en:
         title: Welcome back
       subtitle: Pick and Browse stocks easily with our unique system
       title: Pick stock easily
-      market: "Here's our analysis on the 3 largest stocks in the US"
       viewMore:
         stocks: View more stocks
         themes: View more themes
@@ -2315,6 +2314,7 @@ en:
       title: "Pick stocks easily"
       subtitle: "Pick stocks easily using our unique ratings"
       createAccount: "Create Free Account"
+      market: "Here's our analysis on the 3 largest stocks in the US"
       portfolios: Portfolios
       settings: Settings
       desktopVersionLabel: Switch to desktop version
