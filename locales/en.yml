@@ -1514,59 +1514,6 @@ en:
       login: Login to Stockflare
       mfa: Secured Account
       social: Social Login (Coming Soon)
-  mobile:
-    homepage:
-      createAccount: Create Free Account
-      logged:
-        subtitle: You can now browse alerts and watchlist
-        title: Welcome back
-      subtitle: Pick and Browse stocks easily with our unique system
-      title: Pick stock easily
-      viewMore:
-        stocks: View more stocks
-        themes: View more themes
-    stock:
-      keyStats:
-        title: Key Stats
-      starRating:
-        cheap:
-          na: No PE Ratio
-          text: '%nx PE vs. competitors on %nx'
-          title:
-            negative: Expensive
-            positive: Cheap
-        dividends:
-          na: No forecasts available
-          negative:
-            text: Not paying dividends
-          positive:
-            text: Dividend %n. Yield of %n%
-          title: Forecast
-        expert:
-          downside: '%n% downside to price target'
-          na: No research from experts
-          noChanges: No difference to price target
-          title: Expert Opinion
-          upside: '%n% upside to price target'
-        profitable:
-          na: No forecasts available
-          text: EPS forecast
-          title:
-            negative: Not Profitable
-            positive: Profitable
-        profitbale:
-          na: No forecasts available
-          text: EPS forecast
-          title:
-            negative: Not Profitable
-            positive: Profitable
-        stronger:
-          na: No growth forecasts
-          text: '%n% growth vs. competitors with %n%'
-          title:
-            negative: Weaker
-            positive: Stronger
-        title: Star Rating
   onboard:
     controls:
       complete: Complete
