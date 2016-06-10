@@ -2227,6 +2227,9 @@ en:
       empty:
         title: No Alerts Today
         text: There are no alerts for the stocks you are watching
+      noAlerts:
+        title: "No Alerts!"
+        text: "You aren't watching any stocks yet. Why not set up a Watchlist?"
     common:
       delete:
         confirmation: "Are you sure you want to delete '%n'?"
