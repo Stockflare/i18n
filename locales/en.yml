@@ -2319,16 +2319,16 @@ en:
           title:
             positive: "Profitable"
             negative: "Not Profitable"
-          na: "No forecasts available"
+          na: "No earnings forecast available"
           text: "EPS forecast"
         dividends:
-          title: "Forecast"
+          title: "Dividends?"
           negative:
             text: "Not paying dividends"
           positive:
             dividend: Dividend
             yieldOf: "Yield of %n%"
-          na: No forecasts available
+          na: No dividend forecasts available
     trade:
       choose: Choose Brokerage
       brokerage: Brokerage
