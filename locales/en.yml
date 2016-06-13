@@ -2393,3 +2393,4 @@ en:
       inputLabel: Watchlist Name
       selectWatchlist: Select watchlist
       subtitle: "Your watchlists are listed by Market Value"
+      empty: "Not watching any stocks yet? Why not \"Explore\" some stocks and add you favorites to a wtchlist?"
