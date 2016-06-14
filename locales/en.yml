@@ -2289,7 +2289,7 @@ en:
       title: "Searching over 50,000 Stocks"
       subtitle: "We are going on an adventure"
       noResults: "Sorry we can't find anything"
-      noResultsLink: "Try %n"
+      noResultsLink: "Try"
     stock:
       latest: Latest results
       visit: Visit
