@@ -12,7 +12,7 @@ en:
               description: You need more than just price alerts. Get alerts on how the underlying business is performing. Best you know if the business is turning sour!
             second:
               title: Connected Portfolios
-              description: Connect your brokerage account and we'll provide a regular healthcheck on your investments and signals when you should this about rebalancing.
+              description: Connect your brokerage account and we'll provide a regular healthcheck on your investments and signals when you should think about rebalancing.
             third:
               title: Notifications
               description: With our notification service, sleep easy knowing we are watching your investments ready to notify you, if you've a critical decision to make.
