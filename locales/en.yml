@@ -1,4 +1,25 @@
 en:
+  subscriptions:
+    information:
+      title: Super Charge Your Investing
+      copy: With Stockflare's Plus service you can empower your investing. Get access to our best tools and analytics for simple flat fee. Let us keep track of our portfolio and help improve how you manage your investments.
+      plans:
+        silver:
+          title: "Plus"
+          features:
+            first:
+              title: Smart Alerts
+              description: You need more than just price alerts. Get alerts on how the underlying business is performing. Best you know if the business is turning sour!
+            second:
+              title: Connected Portfolios
+              description: Connect your brokerage account and we'll provide a regular healthcheck on your investments and signals when you should think about rebalancing.
+            third:
+              title: Notifications
+              description: With our notification service, sleep easy knowing we are watching your investments ready to notify you, if you've a critical decision to make.
+          cta: Try for Free (14 Days)
+          cost: $5 pcm
+          summary: (Smart Alerts, Your Portfolio, Notifications)
+
   notifications:
     price_intraday:
       positive: '%short_name is up %price_change today.'
