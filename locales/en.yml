@@ -1,4 +1,24 @@
 en:
+  subscriptions:
+    information:
+      title: Supercharge Stockflare
+      copy: The copy text under the title
+      plans:
+        silver:
+          features:
+            first:
+              title: The First Title
+              description: The description
+            second:
+              title: The Second Title
+              description: The description
+            third:
+              title: The Thirs Title
+              description: The description
+          cta: Try for Free (14 Days)
+          cost: $15 pcm
+          summary: (Unlimited Alerts, Notifications, Portfolios)
+
   notifications:
     price_intraday:
       positive: '%short_name is up %price_change today.'
