@@ -1,5 +1,10 @@
 en:
   subscriptions:
+    subscribed:
+      title: Successfully Supercharged
+      description: 'You will now be billed now and then %n until the plan is canceled.'
+      buttons:
+        portfolio: View my Portfolio
     payment:
       pay: 'Pay %n'
       details:
