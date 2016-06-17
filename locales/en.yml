@@ -1,5 +1,15 @@
 en:
   subscriptions:
+    payment:
+      pay: 'Pay %n'
+      details:
+        number: Credit card number
+        expiry: Expiration
+        cvc: CVC Number
+      errors:
+        number: Invalid Credit card number
+        expiry: Invalid Card expiry date
+        cvc: Invalid CVC Number
     information:
       title: Super Charge Your Investing
       copy: With Stockflare's Plus service you can empower your investing. Get access to our best tools and analytics for simple flat fee. Let us keep track of our portfolio and help improve how you manage your investments.
@@ -17,7 +27,8 @@ en:
               title: Notifications
               description: With our notification service, sleep easy knowing we are watching your investments ready to notify you, if you've a critical decision to make.
           cta: Try for Free (14 Days)
-          cost: $5 pcm
+          upgrade: Upgrade Plan
+          cost: $5 per month
           summary: (Smart Alerts, Your Portfolio, Notifications)
 
   notifications:
@@ -169,37 +180,16 @@ en:
     pageTitle: My connected brokerage account
     power: Buying Power
   alerts:
-    count: '%n Alerts'
-    headers:
-      today: Todays Alerts
-    messages:
-      gain:
-        negative: Forecast long-term gain has decreased from %previous_gain% to %latest_gain%
-        positive: Forecast long-term gain has increased to %latest_gain% from %previous_gain%
-      movement:
-        negative: The price is down by %price_change% from %previous_price to %latest_price.
-        positive: The price is up %price_change% from %previous_price to %latest_price.
-      none: Currently No Alerts
-      one_month_eps_sentiment:
-        positive: Forecasted earnings have risen faster than the stock price, over the last month.
-      one_month_price_sentiment:
-        negative: The stock price has fallen faster than forecasted earnings, over the last month.
-      rating:
-        negative: Lost a key metric. Currently passes %latest_rating key metrics.
-        positive: Passed an extra key metric. Currently passes %latest_rating key metrics.
-      recommendation:
-        negative: Wall Street has downgraded %previous_recommendation_text to %latest_recommendation_text.
-        positive: Wall Street has upgraded %previous_recommendation_text to %latest_recommendation_text.
-      three_month_eps_sentiment:
-        positive: Over the last 3 months, forecasted earnings have risen faster than the stock price.
-      three_month_price_sentiment:
-        negative: Over the last 3 months, the stock price has fallen faster than forecasted earnings.
-      upside:
-        positive: Now has a %latest_upside upside to its price target.
-      volume:
-        negative: Abnormally high trading volumes.
     pageTitle: My Alerts
-    timeAgo: '%n hours ago'
+    none:
+      title: Smile, no alerts today
+      description: There are currently no triggered alerts for all your watchlists and portfolios.
+    empty:
+      title: No Watchlists or Portfolios
+      description: You have not yet connected your portfolio or watched any stocks. Once you are tracking stocks, you will begin to receive alerts.
+      buttons:
+        connect: Connect your Portfolio
+        watchlist: Find Stocks
   appender:
     add: Add Stock
     noMatches: 0 Matches
