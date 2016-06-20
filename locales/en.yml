@@ -2501,5 +2501,5 @@ en:
     email:
       trial_will_end:
         subject: Your Stockflare Plus trial will end soon
-        body: Your trial of Stockflare Plus will be ending in %n days time.  Use the link below to ensure that you keep getting premium alerts on stocks in your Watchlists and Portfolios
+        body: Your trial of Stockflare Plus will be ending in %days days time.  Use the link below to ensure that you keep getting premium alerts on stocks in your Watchlists and Portfolios
         link: Subscribe to Stockflare Plus
