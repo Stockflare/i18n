@@ -2412,3 +2412,88 @@ en:
       subtitle: "Your watchlists are listed by Market Value"
       empty: "Not watching any stocks yet? Why not \"Explore\" some stocks and add you favorites to a wtchlist?"
       emptyTitle: Explore Stocks
+  widgets:
+    title: Analysis by Stockflare
+    linkLabel: More Information
+    updated: Updated
+    footer: Powoered by Stockflare
+    starRatings:
+      title: Star Rating Analysis
+      profitable:
+        positive:
+          title: Profitable
+          text: Forecast to be profitable this year
+        negative:
+          title: Not Profitable
+          text: Not expected to earn a profit this year
+        empty:
+          title: Profitable?
+          text: No forecasts available
+      dividends:
+        positive:
+          title: Paying Dividends
+          text: Dividends forecast this year, equal to a %n% yield
+        negative:
+          title: No Dividends
+          text: Not expected to pay dividends this year
+        warning:
+          title: Dividends at Risk
+          text: The forecast dividend is higher than forecast earnings
+        empty:
+          title: Dividends?
+          text: No forecasts available
+      growing:
+        positive:
+          title: High Growth
+          text: Forecast to grow this year and grow faster than its peers long-term
+        negative:
+          title: Low Growth
+          text: Not forecast to grow faster than its peers long-term
+        warning:
+          title: Mixed Signals
+          text: Not forecasts to grow in the short term, but expected to grow strongly long-term
+        empty:
+          title: High Growth?
+          text: No forecasts available
+      cheaper:
+        positive:
+          title: Cheap
+          text: "%n% cheaper than it’s peers, who trade at %nx"
+        negative:
+          title: Expensive
+          text: "%n% more expensive than it’s peers, who trade at %nx"
+        empty:
+          title: Profitable?
+          text: No forecasts available
+      recommendation:
+        positive:
+          title: Expert Opinion is Positive
+          text: The consensus recommendation is %n with a %n% to the average target price
+        negative:
+          title: Expert Opinion is Negative
+          text: The consensus recommendation is %n with a %n% to the average target price
+        empty:
+          title: Expert Opinion?
+          text: No broker recommendation is available
+    drivingPrice:
+      title: What is Driving the Price?
+      price:
+        text: "%n% Price Change"
+        subtext: calculated over the last month
+      fundamentals:
+        text: Business Fundamentals
+        available: a %n% change in forecast earnings
+        unavailable: Driven by a %n% change in forecast sales
+        empty: no forecasts available
+      sentiment:
+        text: Investor Sentiment
+        available: a %n% change in the PE ratio
+        unavailable: Driven by a %n% change in Price-to-Sales ratio
+        empty: no forecasts available
+    gain:
+      title: Estimated long-term gain of %n% per annum
+      subtitle: Based on the consensus broker forecasts
+      empty: No long-term forecast available
+    competitors:
+      title: Largest Competitors
+      empty: no peer available
