@@ -1,8 +1,8 @@
 en:
   subscriptions:
     subscribed:
-      title: Successfully Supercharged
-      description: 'You will now be billed now and then %n until the plan is canceled.'
+      title: Successfully Supercharged!
+      description: 'You will be billed %n until the plan is canceled.'
       buttons:
         portfolio: View my Portfolio
     payment:
@@ -12,22 +12,22 @@ en:
         expiry: Expiration
         cvc: CVC Number
       errors:
-        number: Invalid Credit card number
-        expiry: Invalid Card expiry date
+        number: Invalid card number
+        expiry: Invalid card expiry date
         cvc: Invalid CVC Number
     information:
       title: Super Charge Your Investing
-      copy: With Stockflare's Plus service you can empower your investing. Get access to our best tools and analytics for simple flat fee. Let us keep track of our portfolio and help improve how you manage your investments.
+      copy: With Stockflare's Plus service you can empower your investing. Get access to our best tools and analytics for a simple flat fee. Let us keep track of your portfolio and help improve how you manage your investments.
       plans:
         silver:
-          title: "Plus"
+          title: "Stockflare Plus"
           features:
             first:
               title: Smart Alerts
               description: You need more than just price alerts. Get alerts on how the underlying business is performing. Best you know if the business is turning sour!
             second:
               title: Connected Portfolios
-              description: Connect your brokerage account and we'll provide a regular healthcheck on your investments and signals when you should think about rebalancing.
+              description: Connect your brokerage account and we'll provide a regular healthcheck on your investments and signal when you should think about rebalancing.
             third:
               title: Notifications
               description: With our notification service, sleep easy knowing we are watching your investments ready to notify you, if you've a critical decision to make.
