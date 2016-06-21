@@ -2491,6 +2491,7 @@ en:
         unavailable: Driven by a %n% change in Price-to-Sales ratio
         empty: no forecasts available
     gain:
+      header: "What's it worth"
       title: Estimated long-term gain of %n% per annum
       subtitle: Based on the consensus broker forecasts
       empty: No long-term forecast available
