@@ -8,7 +8,7 @@ en:
     payment:
       pay: 'Pay %n'
       details:
-        number: Credit card number
+        number: Credit/ debit card number
         expiry: Expiration
         cvc: CVC Number
       errors:
@@ -17,7 +17,7 @@ en:
         cvc: Invalid CVC Number
     information:
       title: Super Charge Your Investing
-      copy: With Stockflare's Plus service you can empower your investing. Get access to our best tools and analytics for a simple flat fee. Let us keep track of your portfolio and help improve how you manage your investments.
+      copy: With Stockflare's Plus service you can empower your investing. Get access to our best tools and analytics for a simple flat fee. Let us keep track of your stocks and help improve how you manage your investments.
       plans:
         silver:
           title: "Stockflare Plus"
@@ -2410,13 +2410,13 @@ en:
       inputLabel: Watchlist Name
       selectWatchlist: Select watchlist
       subtitle: "Your watchlists are listed by Market Value"
-      empty: "Not watching any stocks yet? Why not \"Explore\" some stocks and add you favorites to a wtchlist?"
+      empty: "Not watching any stocks yet? Why not \"Explore\" some stocks and add your favorites to a watchlist?"
       emptyTitle: Explore Stocks
   widgets:
     title: Analysis by Stockflare
     linkLabel: More Information
     updated: Updated
-    footer: Powoered by Stockflare
+    footer: Powered by Stockflare
     starRatings:
       title: Star Rating Analysis
       profitable:
@@ -2468,10 +2468,10 @@ en:
       recommendation:
         positive:
           title: Expert Opinion is Positive
-          text: The consensus recommendation is %n with a %n% to the average target price
+          text: The consensus recommendation is %n with %n% to the target price
         negative:
           title: Expert Opinion is Negative
-          text: The consensus recommendation is %n with a %n% to the average target price
+          text: The consensus recommendation is %n with %n% to the target price
         empty:
           title: Expert Opinion?
           text: No broker recommendation is available
@@ -2491,7 +2491,7 @@ en:
         unavailable: Driven by a %n% change in Price-to-Sales ratio
         empty: no forecasts available
     gain:
-      header: "What's it worth"
+      header: "What's it Worth?"
       title: Estimated long-term gain of %n% per annum
       subtitle: Based on the consensus broker forecasts
       empty: No long-term forecast available
@@ -2502,5 +2502,5 @@ en:
     email:
       trial_will_end:
         subject: Your Stockflare Plus trial will end soon
-        body: Your trial of Stockflare Plus will be ending in %days days time.  Use the link below to ensure that you keep getting premium alerts on stocks in your Watchlists and Portfolios
+        body: Your trial of Stockflare Plus will be ending in %days days time.  Use the link below to ensure  you keep getting our smart alerts on all your stocks
         link: Subscribe to Stockflare Plus
