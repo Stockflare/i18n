@@ -2458,10 +2458,10 @@ en:
       cheaper:
         positive:
           title: Cheap
-          text: "%n% cheaper than it’s peers, who trade at %nx"
+          text: "%n% cheaper than it’s peers, who trade at %nx earnings"
         negative:
           title: Expensive
-          text: "%n% more expensive than it’s peers, who trade at %nx"
+          text: "%n% more expensive than it’s peers, who trade at %nx earnings"
         empty:
           title: Profitable?
           text: No forecasts available
