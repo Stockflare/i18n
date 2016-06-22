@@ -63,7 +63,7 @@ en:
       negative: 'A peer of %short_name, %peer_short_name was down %peer_price_change yesterday.'
     pe:
       positive: '%short_name is significantly cheaper today at %forecast_pe than it was a week ago at %forecast_pe_one_week_ago.'
-      negative: '%short_name is significantly expensive today at %forecast_pe than it was a week ago at %forecast_pe_one_week_ago.'
+      negative: '%short_name is significantly more expensive today at %forecast_pe than it was a week ago at %forecast_pe_one_week_ago.'
     growth_trend:
       positive: 'The long term growth forecast for %short_name has increased substantially in the last week to %long_term_growth from %long_term_growth_one_week_ago.'
       negative: 'The long term growth forecast for %short_name has decreased substantially in the last week to %long_term_growth from %long_term_growth_one_week_ago.'
