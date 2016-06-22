@@ -122,7 +122,7 @@ en:
     price_eps_one_month:
       positive: "%short_name's price has fallen %price_change_one_month but the forecast earnings are %forecast_eps_change_one_month over the last month."
     eps_price_one_week:
-      positive: "%short_name's forecast earnings are up %forecast_eps_change_one_week over the last week, but the price has price has %price_change_one_week. It's PE ratio is now %forecast_pe."
+      positive: "%short_name's forecast earnings are up %forecast_eps_change_one_week over the last week, but the price has %price_change_one_week. It's PE ratio is now %forecast_pe."
     eps_price_one_month:
       positive: "%short_name's forecast earnings are up %forecast_eps_change_one_month over the last month, but the price has %price_change_one_month. It's PE ratio is now %forecast_pe."
   about:
