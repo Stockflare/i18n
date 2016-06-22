@@ -116,7 +116,7 @@ en:
       positive: 'The forecast long term gain for %short_name has just turned positive at %long_term_gain from %long_term_gain_yesterday yesterday.'
       negative: 'The forecast long term gain for %short_name has just turned negative at %long_term_gain from %long_term_gain_yesterday yesterday.'
     stars_peers:
-      negative: '%short_name has fallen to a %rating star rating. Here is a list of its peers that are 4+ star stocks: %tickers.'
+      negative: '%short_name has fallen to a %rating star rating. Here is a list of its peers that are 4+ star stocks: %rics.'
     price_eps_one_week:
       positive: "%short_name's price has fallen %price_change_one_week but the forecast earnings are %forecast_eps_change_one_week over the last week."
     price_eps_one_month:
