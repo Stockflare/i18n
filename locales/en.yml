@@ -195,6 +195,9 @@ en:
       buttons:
         connect: Connect your Portfolio
         watchlist: Find Stocks
+    buttons:
+      trial: Try Pro Alerts
+      upgrade: Upgrade to Pro Alerts
   appender:
     add: Add Stock
     noMatches: 0 Matches
