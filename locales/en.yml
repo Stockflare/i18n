@@ -5,6 +5,7 @@ en:
       description: 'You will be billed %n until the plan is canceled.'
       buttons:
         portfolio: View my Portfolio
+        alerts: View my Alerts
     payment:
       pay: 'Pay %n'
       details:
