@@ -34,6 +34,8 @@ en:
               description: With our notification service, sleep easy knowing we are watching your investments ready to notify you, if you've a critical decision to make.
           cta: Try for Free (14 Days)
           upgrade: Upgrade Plan
+          trialing: Upgrade your free trial
+          active: Already Subscribed
           cost: $5 per month
           summary: (Smart Alerts, Your Portfolio, Notifications)
 
