@@ -38,6 +38,9 @@ en:
           active: Already Subscribed
           cost: $5 per month
           summary: (Smart Alerts, Your Portfolio, Notifications)
+          payment:
+            description: Billed monthly after your trial ends.
+            button: Subscribe
 
   notifications:
     price_intraday:
