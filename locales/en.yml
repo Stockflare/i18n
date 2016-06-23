@@ -2423,6 +2423,7 @@ en:
       emptyTitle: Explore Stocks
   widgets:
     title: Analysis by Stockflare
+    empty: No Widget Available
     linkLabel: More Information
     updated: Updated
     footer: Powered by Stockflare Limited
