@@ -384,6 +384,9 @@ en:
       tradeupdate:
         title: Update your order for %n
   common:
+    alerts_emails:
+      true: Yes
+      false: No
     countries:
       afg: Afghanistan
       ago: Angola
@@ -1681,6 +1684,7 @@ en:
       mfaEnable: Enable MFA for your account by scanning the QR Code below, then entering two valid codes.
       mfaEnabled: MFA is currently enabled for this account.
       password: Leave blank if you do not wish to change your password
+      alerts_email: Do you want to receive emails of your stock alerts
     flash:
       delete: Are you sure you wish to close your Stockflare account?
       deleteError: Sorry, there was an error closing your account, please contact info@stockflare.com
@@ -2072,6 +2076,7 @@ en:
       otpE: Fifth Code
       otpF: Sixth Code
       password: Password
+      alerts_email: Get stock alert emails
     messages:
       language: Click here to reload the page with your preferred language settings
     options:
