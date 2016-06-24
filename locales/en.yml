@@ -385,8 +385,8 @@ en:
         title: Update your order for %n
   common:
     alerts_emails:
-      true: Yes
-      false: No
+      true: Send emails
+      false: Dont send emails
     countries:
       afg: Afghanistan
       ago: Angola
