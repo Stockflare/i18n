@@ -2426,6 +2426,9 @@ en:
       subtitle: "Your watchlists are listed by Market Value"
       empty: "Not watching any stocks yet? Why not \"Explore\" some stocks and add your favorites to a watchlist?"
       emptyTitle: Explore Stocks
+      shares:
+        one: Share
+        multi: Shares
   widgets:
     title: Analysis by Stockflare
     empty: No Widget Available
