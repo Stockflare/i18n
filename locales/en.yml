@@ -2427,7 +2427,7 @@ en:
       empty: "Not watching any stocks yet? Why not \"Explore\" some stocks and add your favorites to a watchlist?"
       emptyTitle: Explore Stocks
       shares:
-        one: Share
+        single: Share
         multi: Shares
   widgets:
     title: Analysis by Stockflare
