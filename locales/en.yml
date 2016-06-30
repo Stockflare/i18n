@@ -2407,6 +2407,14 @@ en:
     settings:
       title: My Settings
       subtitle: Change your personal setting here for Stockflare
+      alertSettings:
+        heading: Alert Settings
+        subscription: subscription
+        trial: "Trial (%n days remaining)"
+        offNoticiations: Pause Email Notifications
+        onNoticiations: Start Email Notifications
+        paymentDetails: Update Payment Details
+        cancelSubscription: Cancel Subscription
       accountDetails:
         heading: Protected Details
         email: Email
