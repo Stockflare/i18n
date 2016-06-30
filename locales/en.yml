@@ -2259,6 +2259,15 @@ en:
         privacy: Privacy policy
     alerts:
       title: Alerts
+      settings: Alert Settings
+      trial:
+        unlock: Unlock Alerts
+        extend:
+          extend: Extend your trial to not miss out
+          left: "%n days left of your Stockflare Plus"
+          get: Get Stockflare PLus Alerts
+          text: Only $5 per month, Cancel Anytime
+          upgrade: Upgrade
       subtitle: "Here are alerts for the stocks you're watching"
       empty:
         title: No Alerts Today
