@@ -2261,12 +2261,29 @@ en:
       title: Alerts
       settings: Alert Settings
       unlock: Unlock Alerts
+      upgrade: Upgrade
       unlockAll: Unlock All Alerts
+      slider:
+        title: Supercharge Stockflare
+        btnLabel: Try for Free
+        first:
+          title: Smart Alerts
+          description: You need more than just price alerts. Get alerts on how the underlying business is performing. Best you know if the business is turning sour!
+        second:
+          title: Connected Portfolios
+          description: Connect your brokerage account and we'll provide a regular healthcheck on your investments and signal when you should think about rebalancing.
+        third:
+          title: Notifications
+          description: With our notification service, sleep easy knowing we are watching your investments ready to notify you, if you've a critical decision to make.
+        success:
+          title: Successfully Supercharged!
+          text: "After the free trial, we will get in contact. Then, you will be billed $5 per month until the plan is canceled."
+          btnLabel: View My Alerts
       trial:
         extend:
           extend: Extend your trial to not miss out
           left: "%n days left of your Stockflare Plus"
-          get: Get Stockflare PLus Alerts
+          get: Get Stockflare Plus Alerts
           text: Only $5 per month, Cancel Anytime
           upgrade: Upgrade
       subtitle: "Here are alerts for the stocks you're watching"
@@ -2419,7 +2436,7 @@ en:
       subtitle: Change your personal setting here for Stockflare
       alertSettings:
         heading: Alert Settings
-        subscription: subscription
+        subscription: Subscription
         trial: "Trial (%n days remaining)"
         offNoticiations: Pause Email Notifications
         onNoticiations: Start Email Notifications
