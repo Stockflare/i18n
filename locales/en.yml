@@ -43,6 +43,10 @@ en:
             button: Subscribe
 
   notifications:
+    split:
+      positive: 'There has been a stock split for %short_name on %split_date with a split ratio of %ratio. The price today is %price versus %price_yesterday yesterday.'
+    consolidation:
+      negative: 'There has been a stock consolidation for %short_name on %split_date with a consolidation ratio of %ratio. The price today is %price versus %price_yesterday yesterday.'
     price_intraday:
       positive: '%short_name is up %price_change today.'
       negative: '%short_name is down %price_change today.'
