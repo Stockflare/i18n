@@ -1,4 +1,28 @@
 en:
+  drivewealth:
+    information:
+      title: Start Investing in the US
+      copy: Stockflare users, anywhere in the world can open a US brokerage account with our partner DriveWealth, and invest in the largest stock market in the world.
+      features:
+        first:
+          title: A Global Account
+          description: Our partner DriveWealth serves clients in over 20 countries around the world.
+        second:
+          title: Stockflare Integration
+          description: Simply connect your account to bring your DriveWealth account inside Stockflare.
+        third:
+          title: Competitive Service
+          description: Less than $3 a trade, with access to the largest 1,500 companies traded in the US.
+      cost: $3 Per Trade
+      summary: (Sign up from anywhere, full integration with Stockflare)
+      cta: Join Today
+    account:
+      title: Ready to connect your Drivewealth Account?
+      description: Have you completed the sign-up to DriveWealth?  Great! Let's now connect your shiny new US brokerage account into Stockflare. Click below to get all of Stockflare's features integrated with your DriveWealth account.
+      buttons:
+        connect: Connect to Stockflare
+        back: Back to Create Brokerage
+
   subscriptions:
     subscribed:
       title: Successfully Supercharged!
