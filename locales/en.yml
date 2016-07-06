@@ -230,8 +230,8 @@ en:
         connect: Connect your Portfolio
         watchlist: Find Stocks
     buttons:
-      trial: Try "Plus" Alerts
-      upgrade: Upgrade to "Plus" Alerts
+      trial: Try Plus Alerts
+      upgrade: Upgrade to Plus Alerts
   appender:
     add: Add Stock
     noMatches: 0 Matches
