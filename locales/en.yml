@@ -1718,11 +1718,28 @@ en:
       mfaEnabled: MFA is currently enabled for this account.
       password: Leave blank if you do not wish to change your password
       alerts_email: Do you want to receive emails of your stock alerts
+    subscription:
+      silver:
+        title: You are subscribed to Stockflare Plus.
+        trialing: Your trial ends in %n days.
+        active: Your subscription is active and will be billed in %n days.
+        past_due: Your last payment failed, please update your payment details.
+        cancelled: Your subscription has been cancelled and will end in %n days.
+      free:
+        title: You are using our Free Service.
+        offer_trial: Why not check out our free 14 day trial.
+        active: You can upgrade to Stockflare Plus any time.
+      buttons:
+        add: Add Payment Details
+        update: Update Payment Details
+        cancel: Cancel Subscription
+        trial: Try Plus for free
     flash:
       delete: Are you sure you wish to close your Stockflare account?
       deleteError: Sorry, there was an error closing your account, please contact info@stockflare.com
       deleteInitiated: Account closure request received. Please check your email inbox for further instructions.
       updated: Your settings have been updated
+      cancel_subscription: Are you sure you want to cancel your Stockflare Plus subscription?
     groups:
       password: Change Password
     pageTitle: Settings
@@ -1732,6 +1749,7 @@ en:
       mfa: Multi-Factor Authentication
       properties: My Details
       protected: Protected Details
+      subscription: Subscription Details
   stock:
     buttons:
       fiveYears: 5 Years
