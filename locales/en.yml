@@ -389,9 +389,13 @@ en:
           prompt: Show Advanced Settings
           unprompt: Hide Advanced Settings
         button: Preview Order
+        by_quantity: Advanced Options
+        by_amount: Basic Options
         price:
           buy: Buy at / or less than
           sell: Sell at / or higher than
+          custom: Custom Amount
+          choose: Choose Amount
           tooltip: This is a limit order, preset at the bid-ask spread. Click Advanced settings if you want to place a Market Order or a Limit order that is "good until close".
         quantity:
           note_no_shares: Currently, you do not own any shares in %n
