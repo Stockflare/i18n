@@ -400,6 +400,7 @@ en:
         quantity:
           note_no_shares: Currently, you do not own any shares in %n
           note_own_shares: Today you own %n shares in %n
+          note_own_amount_shares: 'Today you own %n of shares in %n'
           prompt: Quantity
         title: Quantity & Price
       thetrade:
