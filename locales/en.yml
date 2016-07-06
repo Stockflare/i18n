@@ -1732,13 +1732,13 @@ en:
         add: Add Payment Details
         update: Update Payment Details
         cancel: Cancel Subscription
-        trial: Try "Plus" for free
+        trial: Try Plus for free
     flash:
       delete: Are you sure you wish to close your Stockflare account?
       deleteError: Sorry, there was an error closing your account, please contact info@stockflare.com
       deleteInitiated: Account closure request received. Please check your email inbox for further instructions.
       updated: Your settings have been updated
-      cancel_subscription: Are you sure you want to cancel your Stockflare Pro subscription?
+      cancel_subscription: Are you sure you want to cancel your Stockflare Plus subscription?
     groups:
       password: Change Password
     pageTitle: Settings
