@@ -1723,6 +1723,7 @@ en:
         trialing: Your trial ends in %n days.
         active: Your subscription is active and will be billed in %n days.
         past_due: You last payment failed, please update your payment details.
+        cancelled: Your subscription has been cancelled and will end in %n days.
       free:
         title: You are using our Free Service.
         offer_trial: Why not check out our free 14 day trial.
@@ -1731,7 +1732,7 @@ en:
         add: Add Payment Details
         update: Update Payment Details
         cancel: Cancel Subscription
-        trial: Try "Pro" for free
+        trial: Try "Plus" for free
     flash:
       delete: Are you sure you wish to close your Stockflare account?
       deleteError: Sorry, there was an error closing your account, please contact info@stockflare.com
