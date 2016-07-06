@@ -2434,6 +2434,14 @@ en:
       change: Change
       buyLimit: Limit
       sellLimit: Limit
+      reuthenticate: Reuthenticate
+      reuthenticateTest: To continue to trade you need to reauthentucate your trading account
+      fractional:
+        sellTitle: You own
+        buyTitle: What $ amount?
+        sellAll: Sell all of it
+        perShareLabel: Switch to per-share buying
+        dolarBased: Switch back to $-based trading
       warning:
         quantity: "Quantity can't bet higher than %n"
       type:
