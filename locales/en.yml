@@ -1709,6 +1709,7 @@ en:
       currency: Watchlist projections and totals will be displayed in your preferred currency, using the most recent exchange rate.
       current: Please enter your current password to make this change
       delete: Closing your account will permanently delete all of your personal data from our systems. This action cannot be undone.
+      cannot_delete: You cannot close your account until you have cancelled your subscription to Stockflare Plus.
       error: 'Sorry, there was a problem updating your settings:'
       language: Set your preferred language to view Stockflare in.
       location: Your location is used to filter stocks when you do not have a Country filter applied.
