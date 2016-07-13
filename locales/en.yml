@@ -68,9 +68,9 @@ en:
 
   notifications:
     split:
-      positive: 'There has been a stock split for %short_name on %split_date with a split ratio of %ratio. The price today is %price versus %price_yesterday yesterday.'
+      positive: 'There has been a stock split for %short_name on %split_date with a split ratio of %ratio. The price today is %price versus %price_yesterday on %timestamp.'
     consolidation:
-      negative: 'There has been a stock consolidation for %short_name on %split_date with a consolidation ratio of %ratio. The price today is %price versus %price_yesterday yesterday.'
+      negative: 'There has been a stock consolidation for %short_name on %split_date with a consolidation ratio of %ratio. The price today is %price versus %price_yesterday on %timestamp.'
     price_intraday:
       positive: '%short_name is up %price_change today.'
       negative: '%short_name is down %price_change today.'
@@ -81,20 +81,20 @@ en:
       positive: '%short_name has gained a star, now a %rating star stock.'
       negative: '%short_name has lost a star, now a %rating star stock.'
     price_small_cap:
-      positive: '%short_name rose %price_change yesterday.'
-      negative: '%short_name fell %price_change yesterday.'
+      positive: '%short_name rose %price_change on %timestamp.'
+      negative: '%short_name fell %price_change on %timestamp.'
     price_large_cap:
-      positive: '%short_name rose %price_change yesterday.'
-      negative: '%short_name fell %price_change yesterday.'
+      positive: '%short_name rose %price_change on %timestamp.'
+      negative: '%short_name fell %price_change on %timestamp.'
     volume_ten_day:
-      positive: '%short_name price was up %price_change in heavy trading yesterday.'
-      negative: '%short_name price was down %price_change in heavy trading yesterday.'
+      positive: '%short_name price was up %price_change in heavy trading on %timestamp.'
+      negative: '%short_name price was down %price_change in heavy trading on %timestamp.'
     recommendation:
       positive: 'The recommendation for %short_name has been upgraded to %recommendation_text.'
       negative: 'The recommendation for %short_name has been downgraded to %recommendation_text.'
     price_peer:
-      positive: 'A peer of %short_name, %peer_short_name was up %peer_price_change yesterday.'
-      negative: 'A peer of %short_name, %peer_short_name was down %peer_price_change yesterday.'
+      positive: 'A peer of %short_name, %peer_short_name was up %peer_price_change on %timestamp.'
+      negative: 'A peer of %short_name, %peer_short_name was down %peer_price_change on %timestamp.'
     pe:
       positive: '%short_name is cheaper today at %forecast_pe than it was a week ago at %forecast_pe_one_week_ago.'
       negative: '%short_name is more expensive today at %forecast_pe than it was a week ago at %forecast_pe_one_week_ago.'
@@ -102,8 +102,8 @@ en:
       positive: 'The long term growth forecast for %short_name has increased substantially in the last week to %long_term_growth from %long_term_growth_one_week_ago.'
       negative: 'The long term growth forecast for %short_name has decreased substantially in the last week to %long_term_growth from %long_term_growth_one_week_ago.'
     growth_turn:
-      positive: 'The long term growth forecast for %short_name has just turned positive at %long_term_growth from %long_term_growth_yesterday yesterday.'
-      negative: 'The long term growth forecast for %short_name has just turned negative at %long_term_growth from %long_term_growth_yesterday yesterday.'
+      positive: 'The long term growth forecast for %short_name has just turned positive at %long_term_growth from %long_term_growth_yesterday on %timestamp.'
+      negative: 'The long term growth forecast for %short_name has just turned negative at %long_term_growth from %long_term_growth_yesterday on %timestamp.'
     sales_trend:
       positive: 'Forecast sales for %short_name are now forecast to rise this year.'
       negative: 'Forecast sales for %short_name are no longer forecast to rise this year.'
@@ -147,8 +147,8 @@ en:
       positive: "The forecast long term gain for %short_name has increased substantially in the last week to %long_term_gain from %long_term_gain_one_week_ago."
       negative: "The forecast long term gain for %short_name has decreased substantially in the last week to %long_term_gain from %long_term_gain_one_week_ago."
     gain_turn:
-      positive: 'The forecast long term gain for %short_name has just turned positive at %long_term_gain from %long_term_gain_yesterday yesterday.'
-      negative: 'The forecast long term gain for %short_name has just turned negative at %long_term_gain from %long_term_gain_yesterday yesterday.'
+      positive: 'The forecast long term gain for %short_name has just turned positive at %long_term_gain from %long_term_gain_yesterday on %timestamp.'
+      negative: 'The forecast long term gain for %short_name has just turned negative at %long_term_gain from %long_term_gain_yesterday on %timestamp.'
     stars_peers:
       negative: '%short_name has fallen to a %rating star rating. Here is a list of its peers that are 4+ star stocks: %rics.'
     price_eps_one_week:
