@@ -6,15 +6,16 @@ en:
       features:
         first:
           title: A Global Account
-          description: Our partner DriveWealth serves clients in over 20 countries around the world.
+          description: Our partner DriveWealth serves clients in over 140 countries around the world.
         second:
           title: Stockflare Integration
           description: Simply connect your account to bring your DriveWealth account inside Stockflare.
         third:
-          title: Competitive Service
-          description: Less than $3 a trade, with access to the largest 1,500 companies traded in the US.
-      cost: $3 Per Trade
-      summary: (Sign up from anywhere, full integration with Stockflare)
+          title: Any $ Amount
+          description: Want to invest $50 but the price per share is too high? Then buy a fractional share!
+      cost: Less than $3 Per Trade*
+      summary: Invest in any of the 2,000 largest US stocks, ETFs or ADRs.
+      summary2: *DriveWealth's commission charges are (a) $0.99 for fractional shares, and (b) $0.0125 per share with a $2.99 minimum per trade if buying 1 or more shares. 
       cta: Join Today
     account:
       title: Ready to connect your DriveWealth Account?
