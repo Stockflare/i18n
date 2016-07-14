@@ -2283,8 +2283,8 @@ en:
         rating: "Star Rating"
         price: Today
         purchased: "Purchase Price"
-        shares: "No. Shares"
-        gain: "7 Year Gain"
+        shares: "Value & Shares"
+        gain: "7 Year Forecast"
         actions: Actions
       rows:
         gain:
