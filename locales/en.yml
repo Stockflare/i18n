@@ -233,6 +233,7 @@ en:
     buttons:
       trial: Try Plus Alerts
       upgrade: Upgrade to Plus Alerts
+      close: Hide these alerts
   appender:
     add: Add Stock
     noMatches: 0 Matches
