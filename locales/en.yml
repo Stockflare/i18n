@@ -182,12 +182,12 @@ en:
     breakdown:
       columns:
         actions: Actions
-        gain: 7 Year Gain
+        gain: 7 Year Forecast
         name: Name
         price: Today
         purchased: Purchase Price
         rating: Star Rating
-        shares: No. Shares
+        shares: Value & Shares
       empty: No stocks in your account
       refresh: Refresh account positions
       rows:
