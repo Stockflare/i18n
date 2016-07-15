@@ -13,9 +13,9 @@ en:
         third:
           title: Any $ Amount
           description: Want to invest $50 but the price per share is too high? Then buy a fractional share!
-      cost: Less than $3 Per Trade*
+      cost: Less than $3 Per Trade
       summary: Invest in any of the 2,000 largest US stocks, ETFs or ADRs.
-      summary2: "*DriveWealth's commission charges are (a) $0.99 for fractional shares, and (b) $0.0125 per share with a $2.99 minimum per trade if buying 1 or more shares."
+      summary2: "DriveWealth's commission charges are (a) $0.99 for fractional shares, and (b) $0.0125 per share with a $2.99 minimum per trade if buying 1 or more shares."
       cta: Join Today
     account:
       title: Ready to connect your DriveWealth Account?
