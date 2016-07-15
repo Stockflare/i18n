@@ -307,14 +307,14 @@ en:
         security: Security Questions
       teaser:
         alerts:
-          description: Not have enough time to track your portfolio? Let our smart alerts keep an eye on your investments for you.
+          description: A better way to keep track. Use our smart alerts to keep an eye on the health of your investments.
           title: Get Our Smart Alerts
         encryption:
-          description: We encrypt all data at Stockflare and only work with the most security conscientious providers, like Amazon Web Services.
-          title: Protected by Encryption
+          description: We encrypt all your data and only work with security conscientious partners, like Amazon Web Services.
+          title: Powerful Encryption
         trade:
-          description: Find a great stock? Connect your brokerage account, then trade quickly and easily from inside Stockflare.
-          title: Trade through Stockflare
+          description: Connect your brokerage account in seconds and get our analytics on your live portfolio. You can trade too.
+          title: Easy Importing
         no_brokerage: "I don't have a Brokerage"
       title: Connect Brokerage
     flash:
