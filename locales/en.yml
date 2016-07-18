@@ -2460,8 +2460,8 @@ en:
       change: Change
       buyLimit: Limit
       sellLimit: Limit
-      reuthenticate: Reuthenticate
-      reuthenticateTest: To continue to trade you need to reauthentucate your trading account
+      reuthenticate: Reauthenticate
+      reuthenticateTest: To continue to trade you need to reauthenticate your trading account
       fractional:
         sellTitle: You own
         buyTitle: What $ amount?
