@@ -2358,6 +2358,7 @@ en:
         email: Email Address
         password: Password
         newPassword: Desired Password
+      lastUpdated: Last Updated
       search: Search
     connect:
       connecting:
