@@ -1108,6 +1108,33 @@ en:
     all: All Stocks
     biLine: Need a little inspiration?
     categories:
+      mega-dividends:
+        description: 'If cash is king, then getting lots of dividends may be just the ticket!'
+        disclaimer: 'The stocks in Mega Dividends are based on a filter of all US stocks with a market value over $500 that have a dividend yield over 5%. We exclude any outliers that have a forecast dividend higher than the forecast earnings.'
+      dividend-disasters:
+        description: 'When companies are paying out more cash than they earn, it's time to worry. Perhaps the dividend isn't sustainable.'
+        disclaimer: 'The Stocks in Dividend Disasters? are based on a filter of all US stocks that have a market value over $500 but the forecast dividend per share is higher than the forecast earnings per share.'
+      strong-buys:
+        description: 'Imagine, Wall Street doesn't just rate some stocks a "Buy" but a select few are rated "Strong Buy".'
+        disclaimer: 'The stocks in Strong Buys are based on a filter of all US stocks with a market value over $500m where the consensus recommendation is Strong Buy.'
+      great-gains:
+        description: 'When all the stars align, Wall Street forecasts amazing growth in earnings and gains for the stockholders.'
+        disclaimer: 'The stocks in Great Gains are based on a filter of all US stocks with a market value over $500m where the forecast long term gain is over 20% per annum, based on the consensus forecasts.'
+      worth-it:
+        description: 'Fantastic valuations exist, but do you think these high fliers are worth it?'
+        disclaimer: 'The stocks in Worth It? are based on a filter of all US stocks with a market value over $500m where either the PE ratio is over 50x forecast earnings or the price to sales ratio is over 10 times.'
+      mega-losses:
+        description: 'There are a select few stocks that get big valuations despite their ability to lose money. Who's able to defy gravity?'
+        disclaimer: 'The stocks in Mega Losses are based on a filter of all US stocks with a market value over $10 billion where the companies are foreast to lose money this year.'
+      super-cash:
+        description: 'Earnings and dividends are just one way to look at cash flow. How about the cheapest stocks on a free-cash-flow basis.'
+        disclaimer: 'The stocks in Super Cash are based on a filter of all US stocks with a market value over $500m where the companies are profitable, pay dividends and have a free cash flow yield over 15%.'
+      sales-rush:
+        description: 'Like a rocket, sometimes sales just take off. Though is it in the price?'
+        disclaimer: 'The stocks in Sales Rush are based on a filter of all US stocks with a market value over $500m where the forecast sales in the next quarter is greater than all the sales for the last 12 months.'
+      little-winners:
+        description: 'Looking for "affordable" stocks? Which cost less than $10 a pop?'
+        disclaimer: 'The stocks in Little Winners? are based on a filter of all US stocks with a market value over $500m where the stock if profitable, pays dividends and the price of the stock is between $1.00 and $10.00 a share.'
       big-and-cheap:
         description: There are lots of big companies with great brands that investors are choosing to ignore. Maybe they'll come back in favor, some day?
         disclaimer: The stocks in "Big and Cheap" are generated using a filter of every stock in the United States with a market value over $50 billion and is cheaper than its competitors using a price-to-earnings ratio.
