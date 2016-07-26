@@ -2692,7 +2692,7 @@ en:
     email:
       trial_will_end:
         subject: Your Stockflare Plus trial will end soon
-        body: Your trial of Stockflare Plus will be ending in %days days time.  Use the link below to ensure  you keep getting our smart alerts on all your stocks
+        body: Your trial of Stockflare Plus will be ending in %days days time.  Use the link below to ensure you keep getting our smart alerts on all your stocks.
         link: Subscribe to Stockflare Plus
       customer_source_created:
         subject: Your payment details have been updated
@@ -2702,6 +2702,10 @@ en:
         subject: Your Stockflare Plus payment has failed
         body: The payment for your Stockflare Plus subscription has failed.  We will try again in a few days and in the meantime your subscription is still active. You can update your payment details on your Settings page.
         link: View your account settings
+      subscription_has_ended:
+        subject: Your Stockflare Plus subscription has ended.
+        body: Your subscription to Stockflare Plus has ended.  Use the link below to ensure you keep getting our smart alerts on all your stocks.
+        link: Subscribe to Stockflare Plus
       payment_succeeded:
         subject: Payment Receipt for Stockflare Plus
         body: We have received payment for your Stockflare Plus subscription.  Thank you for using our service.  The payment amount is USD $%amount.  You can check your subscription details on your Setting Page.
