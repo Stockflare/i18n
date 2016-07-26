@@ -2424,6 +2424,7 @@ en:
         confirmation: "Are you sure you want to delete '%n'?"
       cancel: Cancel
       confirm: "Yes"
+      done: Done
       ok: "Ok"
       complete: Complete
       form:
