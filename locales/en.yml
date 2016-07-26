@@ -1521,6 +1521,7 @@ en:
   header:
     buttons:
       about: About Stockflare
+      home: Dashboard
       alerts: My Alerts
       explore: Explore
       filters: Filters
