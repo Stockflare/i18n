@@ -2602,6 +2602,12 @@ en:
       shares:
         single: Share
         multi: Shares
+      addShares: Add Shares
+      addSharesIn: Add Shares In
+      updateShares: Update Shares
+      form:
+        price: Price
+        amount: Amount
   widgets:
     title: Analysis by Stockflare
     empty: No Widget Available
