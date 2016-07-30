@@ -73,8 +73,8 @@ en:
     consolidation:
       negative: 'There has been a stock consolidation for %short_name on %split_date with a consolidation ratio of %ratio. The price today is %price versus %price_yesterday on %timestamp.'
     price_intraday:
-      positive: '%short_name is up %price_change today.'
-      negative: '%short_name is down %price_change today.'
+      positive: '%short_name was up %price_change intra-day.'
+      negative: '%short_name was down %price_change intra-day.'
     volume_intraday:
       positive: 'Heavy trading in %short_name today, the price is up %price_change.'
       negative: 'Heavy trading in %short_name today, the price is down %price_change.'
@@ -97,8 +97,8 @@ en:
       positive: 'A peer of %short_name, %peer_short_name was up %peer_price_change on %timestamp.'
       negative: 'A peer of %short_name, %peer_short_name was down %peer_price_change on %timestamp.'
     pe:
-      positive: '%short_name is cheaper today at %forecast_pe than it was a week ago at %forecast_pe_one_week_ago.'
-      negative: '%short_name is more expensive today at %forecast_pe than it was a week ago at %forecast_pe_one_week_ago.'
+      positive: '%short_name is cheaper today at %forecast_pe earnings than it was a week ago at %forecast_pe_one_week_ago earnings.'
+      negative: '%short_name is more expensive today at %forecast_pe earnings than it was a week ago at %forecast_pe_one_week_ago earnings.'
     growth_trend:
       positive: 'The long term growth forecast for %short_name has increased substantially in the last week to %long_term_growth from %long_term_growth_one_week_ago.'
       negative: 'The long term growth forecast for %short_name has decreased substantially in the last week to %long_term_growth from %long_term_growth_one_week_ago.'
