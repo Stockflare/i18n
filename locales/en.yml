@@ -94,8 +94,8 @@ en:
       positive: 'The recommendation for %short_name has been upgraded to %recommendation_text.'
       negative: 'The recommendation for %short_name has been downgraded to %recommendation_text.'
     price_peer:
-      positive: 'A peer of %short_name, %peer_short_name was up %peer_price_change on %timestamp.'
-      negative: 'A peer of %short_name, %peer_short_name was down %peer_price_change on %timestamp.'
+      positive: 'A similar business to %short_name, %peer_short_name was up %peer_price_change on %timestamp.'
+      negative: 'A similar business to %short_name, %peer_short_name was down %peer_price_change on %timestamp.'
     pe:
       positive: '%short_name is cheaper today at %forecast_pe earnings than it was a week ago at %forecast_pe_one_week_ago earnings.'
       negative: '%short_name is more expensive today at %forecast_pe earnings than it was a week ago at %forecast_pe_one_week_ago earnings.'
