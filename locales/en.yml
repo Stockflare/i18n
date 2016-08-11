@@ -2717,3 +2717,11 @@ en:
         subject: Payment Receipt for Stockflare Plus
         body: We have received payment for your Stockflare Plus subscription.  Thank you for using our service.  The payment amount is USD $%amount.  You can check your subscription details on your Setting Page.
         link: View your account settings
+  alerts_email:
+    unsubscribe:
+      information:
+        title: Unsubscribe from Alerts Emails
+        checking: Please Wait.  We are checking your unsubscribe link.
+        unsubscribed: The following email address has been unsubscribed
+        error: The Unsubscribe link is not valid.  Please log in to your Settings page to change your email preferences.
+        button: Log in and go to Settings
