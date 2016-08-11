@@ -2722,6 +2722,6 @@ en:
       information:
         title: Unsubscribe from Alerts Emails
         checking: Please Wait.  We are checking your unsubscribe link.
-        unsubscribed: The following email address has been unsubscribed:
+        unsubscribed: "The following email address has been unsubscribed: "
         error: The Unsubscribe link is not valid.  Please log in to your Settings page to change your email preferences.
         button: Go to Settings
