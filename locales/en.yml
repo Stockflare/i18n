@@ -2725,3 +2725,20 @@ en:
         unsubscribed: "The following email address has been unsubscribed: "
         error: The Unsubscribe link is not valid.  Please log in to your Settings page to change your email preferences.
         button: Go to Settings
+  gift:
+    drive_wealth:
+      information:
+        title: "1 Month Exclusive for Drivewealth users"
+        copy: "We love DriveWealth!  We are so excited to partner with them and bring all our analysis and alerts to your portfolio."
+        get:
+          title: "A free month's access to Stockflare Plus :)"
+          description: "Thanks DriveWealth! I'd love to see how Stockflare's unique stock market data helps me invest."
+          buttons:
+            login: "Yes, Login to get my gift!"
+            register: "Yes, Register to get my gift!"
+            connect: "Connect my account"
+        got:
+          title: "You now have a free month's access to Stockflare Plus!"
+          description: "Thanks to DriveWealth you will now be getting all our Stockflare Plus alerts.  Connect your DriveWealth account so that you can trade inside Stockflare and get alerts on all the stocks that you own."
+          buttons:
+            connect: "Connect my account"
