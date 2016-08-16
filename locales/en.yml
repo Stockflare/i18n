@@ -2754,3 +2754,19 @@ en:
           description: "Thanks to DriveWealth you will now be getting all our Stockflare Plus alerts.  Connect your DriveWealth account so that you can trade inside Stockflare and get alerts on all the stocks that you own."
           buttons:
             connect: "Connect my account"
+    refer:
+      information:
+        title: "How about a month free?"
+        copy: "Send your best friends a 14 day free trial with access to all our premium features, and once they accept, you'll get a month free as well!"
+        features:
+          first:
+            title: "Invite your friends via Email"
+            description: We will send them a unique link which will activate your free month.
+          second:
+            title: "They Register for Stockflare"
+            description: They can register in less than 15 seconds
+          third:
+            title: "You get your free month!"
+            description: "Instantly we'll activate your free month as soon as your friend joins"
+        buttons:
+          send: Sent Invite
