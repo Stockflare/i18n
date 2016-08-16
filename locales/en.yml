@@ -2723,12 +2723,12 @@ en:
         link: View your account settings
       gift_drive_wealth:
         subject: Your DriveWealth Gift has arrived!
-        body: "Thank you for trying out or service.  We have creditied your account with a 1 Month free Subscription to Stockflare Plus.  If you are a new user you will also get our 14 day free trial on top.  If you have not already done so you can link your DriveWealth account to Stockflare and get our alerts on the stocks that you own."
+        body: "Thank you for trying out our service.  We have creditied your account with a 1 Month free Subscription to Stockflare Plus.  If you are a new user you will also get our 14 day free trial on top.  If you have not already done so you can link your DriveWealth account to Stockflare and get our alerts on the stocks that you own."
         link: Link your account
       refer:
         subject: One of your friends has signed up to Stockflare
-        body: "Thank your for reccomending Stockflare to your friends.  One of them has now registered and we have credited your account account with 1 month free subscription to Stockfalre Plus."
-        link: Link your account
+        body: "Thank your for reccomending Stockflare to your friends.  One of them has now registered and we have credited your account with 1 month free subscription to Stockfalre Plus."
+        link: Check your alerts
   alerts_email:
     unsubscribe:
       information:
