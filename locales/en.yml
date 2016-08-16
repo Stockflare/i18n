@@ -2769,4 +2769,5 @@ en:
             title: "You get your free month!"
             description: "Instantly we'll activate your free month as soon as your friend joins"
         buttons:
-          send: Sent Invite
+          send: Send Invite
+          sent: Invite Sent
