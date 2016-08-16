@@ -2479,6 +2479,10 @@ en:
     stock:
       latest: Latest results
       visit: Visit
+      etf:
+        title: Key metrics for
+        text: Check out key metrics. We run the analysis for the primary stock.
+        visit: Visit
       website: Website
       million: million
       keyStats:
