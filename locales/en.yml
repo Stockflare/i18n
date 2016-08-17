@@ -2773,3 +2773,7 @@ en:
           sent: Invite Sent
         fields:
           email: "Friends Email Address"
+        messages:
+          sent: Invite sent
+          invlaid_email: Email address is invalid!
+          error: Could not send invite!
