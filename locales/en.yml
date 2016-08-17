@@ -2771,3 +2771,5 @@ en:
         buttons:
           send: Send Invite
           sent: Invite Sent
+        fields:
+          email: "Friends Email Address"
