@@ -2727,7 +2727,7 @@ en:
         link: Link your account
       refer:
         subject: One of your friends has signed up to Stockflare
-        body: "Thank your for reccomending Stockflare to your friends.  One of them has now registered and we have credited your account with 1 month free subscription to Stockfalre Plus."
+        body: "Thank your for recomending Stockflare to your friends.  One of them has now registered and we have credited your account with 1 month free subscription to Stockfalre Plus."
         link: Check your alerts
   alerts_email:
     unsubscribe:
