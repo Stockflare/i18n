@@ -2390,6 +2390,9 @@ en:
       unlock: Unlock Alerts
       upgrade: Upgrade
       unlockAll: Unlock All Alerts
+      push:
+        subscribe: Activate Chrome Alerts
+        ubsubscribe: Deactivate Chrome Alerts
       slider:
         title: Supercharge Stockflare
         btnLabel: Try for Free
