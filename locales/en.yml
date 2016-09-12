@@ -1773,6 +1773,8 @@ en:
       title: Searching through over 45,000 Stocks
     searchingTitle: Searching for %n
     title: Searching for %n
+    country:
+      placeholder: Select your country
   settings:
     buttons:
       apply: Apply Changes
