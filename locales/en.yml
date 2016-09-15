@@ -1768,7 +1768,7 @@ en:
       link: Try %n instead?
       title: Unable to find stocks matching '%n'
     pageTitle: Search
-    placeholder: Search by Company Name or Ticker...
+    placeholder: Search...
     searching:
       description: Going on a round the world trip!
       title: Searching through over 45,000 Stocks
