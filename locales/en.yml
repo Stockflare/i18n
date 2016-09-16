@@ -2783,3 +2783,84 @@ en:
           sent: Invite sent
           invlaid_email: Email address is invalid!
           error: Could not send invite!
+  hodor_landing:
+    nav:
+      sign_up: Sign up for free
+      login: Login
+    hero:
+      title: Worry Free Investing
+      description: "Sleep easy knowing Stockflare monitors your portfolio, always keeping you up-to-date"
+      cta: Get Started
+    features:
+      global: "Stock picking made easy for any stock market globally"
+      sec: "Access our US SEC registered investment advisor"
+      alerts: "Our Plus alerts keep you in the know 24/7"
+      reuters: "Our analysis is built upon world class data from Reuters"
+    sectons:
+      picking:
+        image_url: "https://public.stockflare.com/assets/hodor_landing/image-browser.png"
+        cta_url: "/$/stocks/amzn.o"
+        title: "Stockpicking Made Easy"
+        description: "At Stockflare, our algorithms turn large quantities of data into easy to use analysis. With our tools, anyone can pick stocks easily."
+        cta: "See Amazon, Inc"
+      link:
+        cta_url: "/$/portfolio/link"
+        title: "Connect, Explore, Buy"
+        description: "Securely connect your US brokerage account and import your portfolio to Stockflare. Get our analysis on your live investments."
+        cta: "Connect My Brokerage"
+      drivewealth:
+        image_url: "https://public.stockflare.com/assets/hodor_landing/image-newbroker.png"
+        cta_url: "/$/drivewealth"
+        title: "Invest in the US"
+        description: "From anywhere in the world, Stockflare users can open a US account with our partner DriveWealth LLC. No minimums. Less than $3 a trade*."
+        cta: "Open An Account"
+      subscribe:
+        image_url: "https://public.stockflare.com/assets/hodor_landing/graphic-alerts.png"
+        cta_url: "/subscribe"
+        title: "Sleep Easy with Plus"
+        description: "Sign up for Stockflare Plus and have us monitor your portfolio 24/7. Our algorithms watch for changes in the underlying businesses you’ve invested in."
+        cta: "Start Your Free 14-Day Trial"
+    register:
+      title: "Join for Free. Always Free."
+      description: "Register now to keep track of your favourite stocks"
+      form:
+        email:
+          placeholder: "Your Email Address"
+        password:
+          placeholder: "Desired Password"
+      cta: "Register for Stockflare"
+      skip: "Skip"
+      terms_1: "By using our website or clicking 'Register for Stockflare'"
+      terms_2: "you agree to our Privacy Policy & Terms of Service"
+    footer:
+      title: "Stockflare Limited & Stockflare USA, Inc."
+      description: "Stockflare helps anyone pick stocks. Easily. Investing doesn't have to be complicated. We cut through hundreds of metrics for over 45,000 stocks globally."
+      sec: "SEC Number 801-107536"
+      about:
+        title: About
+        about_us: About us
+        faq: FAQ
+        eduacation: Education
+      contact:
+        title: Contact
+        twitter: Twitter
+        facebook: Facebook
+        email: Email
+      legals:
+        title: Legals
+        terms: Terms
+        privacy: Privacy
+        sec: SEC Disclosures
+      block:
+        operated: "This website is operated and maintained by Stockflare Limited, a UK company. Access our filings at the UK's"
+        companies_house: "CompaniesHouse.gov.uk"
+        information_only: "Stockflare’s free service provides information only, no advice, no recommendations. Please make sure you understand our Terms of Service. If you don’t, please contact us with your questions."
+        drivewealth: "*Our partner DriveWealth LLC's standard commission rate is $0.0125 per share, with a minimum of $2.99. Fractional share commissions are $0.99 for each transaction less than one full share."
+        usa:
+          sec: "In the United States, our wholly owned subsidiary, Stockflare USA, Inc, is an SEC Registered Investment Advisor. For details visit the SEC's website at"
+          iapd: "adviserinfo.sec.gov/IAPD/"
+          download: "or download our Disclosure Brochure"
+          here: here
+        long_term_investing: "Stockflare believes in long term investing in stocks and low cost ETFs. We do not believe that high cost mutual funds or active managers represent value for money. We do not like complex investments, speculation or day trading. As Phil Fisher said: Conservative investors sleep better."
+        loss_warning: "Please remember that investing involves risk and investments may lose value, i.e. you will lose money on some of your investments. Therefore one of our key goals at Stockflare, is to provide you with tools to help you minimize your losses."
+        invest_wise: "Save more. Invest wisely."
