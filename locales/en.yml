@@ -2489,6 +2489,9 @@ en:
         title: Key metrics for
         text: Check out key metrics. We run the analysis for the primary stock.
         visit: Visit
+      bshare:
+        title: "Key metrics for %n ?"
+        text: "Currently, we only run our full analysis on A shares & primary listings."
       website: Website
       million: million
       keyStats:
