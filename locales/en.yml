@@ -2787,6 +2787,7 @@ en:
           invlaid_email: Email address is invalid!
           error: Could not send invite!
   hodor_landing:
+    hero_image_url: "https://public.stockflare.com/assets/hodor_landing/introduction-background.jpg"
     nav:
       sign_up: Sign up for free
       login: Login
