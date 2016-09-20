@@ -2746,6 +2746,42 @@ en:
         unsubscribed: "The following email address has been unsubscribed: "
         error: The Unsubscribe link is not valid.  Please log in to your Settings page to change your email preferences.
         button: Go to Settings
+    content:
+      subject:
+        daily: "%message_count alerts inc. %tickers"
+        weekly: "Your weekly update inc. %tickers"
+      heading:
+        daily: "You have %count unread alerts."
+        weekly: "You had %count alerts last week."
+      description:
+        daily: "We trigger alerts for stocks that you have in your watchlist and portfolio."
+        weekly: "This is a weekly summary of the most important alerts you received in the last week."
+      hidden_message: "You also have %hidden 'Plus' alerts that have not been shown"
+      visit_alerts: "Visit Alerts"
+      marketing:
+        gift:
+          text: Gift a friend 14 days of free Stockflare Plus and get
+          link: "1 month free"
+      subscription:
+        subscribed: Thank you for subscribing to Stockflare Plus.
+        trialing:
+          days_left: You are on our free trial of Stockflare Plus for the next %trial_days days.
+          subscribe: Subscribe
+          contine: to continue to get our
+          plus: Plus Alerts
+        free:
+          offer_trial: You are using our free alerts service. Check out our 14 day Free Trial of
+          offer_subscription: You are using our free alerts service. Check out the benefits of
+          plus: Stockflare Plus
+      alert_settings: Alert Settings
+      footer:
+        more_details: Stockflare Limited. For more details on Stockflare Plus visit
+        here: here
+        contact: Contact us at:
+        update_prefs: Update your preferences at the
+        settings: settings page
+        click: or please click
+        unsubscribe: here to unsubscribe.
   gift:
     drive_wealth:
       information:
