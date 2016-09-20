@@ -2747,6 +2747,8 @@ en:
         error: The Unsubscribe link is not valid.  Please log in to your Settings page to change your email preferences.
         button: Go to Settings
     content:
+      account: Account
+      watchlist: Watchlist
       subject:
         daily: "%message_count alerts inc. %tickers"
         weekly: "Your weekly update inc. %tickers"
