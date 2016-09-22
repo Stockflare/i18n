@@ -2595,6 +2595,7 @@ en:
         onNoticiations: Start Email Notifications
         paymentDetails: Update Payment Details
         cancelSubscription: Cancel Subscription
+        cancelled: Subscription Canceled
       accountDetails:
         heading: Protected Details
         email: Email
