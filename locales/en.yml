@@ -217,15 +217,16 @@ en:
       shares: '%n Shares'
       title: Trades
       status:
-        pending: Pending
-        open: Open
-        filling: Filling
-        filled: Filled
-        cancelled: Cancelled
-        rejected: Rejected
-        pending_cancel: Pending Cancel
-        not_found: Not found
-        expired: Expired
+        pending: "Pending"
+        open: "Open"
+        filling: "Filling"
+        filled: "Filled"
+        cancelled: "Cancelled"
+        rejected: "Rejected"
+        pending_cancel: "Pending Cancel"
+        not_found: "Not found"
+        expired: "Expired"
+        not_recognised: Not Recognised
     pageDescription: Your account page contains details of the stocks in your portfolio with the connected brokerage as well as details of all orders placed through Stockflare.
     pageTitle: My connected brokerage account
     power: Buying Power
