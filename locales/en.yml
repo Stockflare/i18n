@@ -216,7 +216,7 @@ en:
       selling: Selling at %n
       shares: '%n Shares'
       title: Trades
-      status:
+      status_description:
         pending: "Pending"
         open: "Open"
         filling: "Filling"
