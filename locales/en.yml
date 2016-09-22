@@ -1921,6 +1921,7 @@ en:
       panel:
         description: Here you can find detailed information about %n, including peer comparisons on key metrics.
         title: Breakdown
+        back: Back to
       peers:
         table:
           dps: DPS
