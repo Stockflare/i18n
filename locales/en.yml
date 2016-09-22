@@ -234,11 +234,6 @@ en:
       trial: Try Plus Alerts
       upgrade: Upgrade to Plus Alerts
       close: Hide these alerts
-      activate_push: Activate Notifications
-      deactivate_push: Deactivate Notifications
-    messages:
-      activated_push: Subscribed to Notifications
-      deactivated_push: Unsubscribed from notifications
   appender:
     add: Add Stock
     noMatches: 0 Matches
@@ -1921,7 +1916,6 @@ en:
       panel:
         description: Here you can find detailed information about %n, including peer comparisons on key metrics.
         title: Breakdown
-        back: Back to
       peers:
         table:
           dps: DPS
@@ -2470,7 +2464,7 @@ en:
       title: "Pick stocks easily"
       subtitle: "Pick stocks easily using our unique ratings"
       createAccount: "Create Free Account"
-      market: "Here's our analysis on the 3 largest stocks in your region"
+      market: "Here's our analysis on the 3 largest stocks in the US"
       portfolios: Portfolios
       settings: Settings
       desktopVersionLabel: Switch to desktop version
@@ -2586,6 +2580,7 @@ en:
         title: No Brokerages Connected
         text: "You've not connected a brokerage account to Stockflare. Why not give it a go?"
     portfolio:
+      pendingTrades: Pending Trades
       reConnect:
         title: Your account needs Reauthenticating
         text: Your account does this every 30 days for security
@@ -2914,14 +2909,3 @@ en:
         long_term_investing: "Stockflare believes in long term investing in stocks and low cost ETFs. We do not believe that high cost mutual funds or active managers represent value for money. We do not like complex investments, speculation or day trading. As Phil Fisher said: Conservative investors sleep better."
         loss_warning: "Please remember that investing involves risk and investments may lose value, i.e. you will lose money on some of your investments. Therefore one of our key goals at Stockflare, is to provide you with tools to help you minimize your losses."
         invest_wise: "Save more. Invest wisely."
-  order_status_description:
-    pending: "Pending"
-    open: "Open"
-    filling: "Filling"
-    filled: "Filled"
-    cancelled: "Cancelled"
-    rejected: "Rejected"
-    pending_cancel: "Pending Cancel"
-    not_found: "Not found"
-    expired: "Expired"
-    not_recognised: Not Recognised
