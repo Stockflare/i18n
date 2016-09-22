@@ -234,6 +234,11 @@ en:
       trial: Try Plus Alerts
       upgrade: Upgrade to Plus Alerts
       close: Hide these alerts
+      activate_push: Activate Notifications
+      deactivate_push: Deactivate Notifications
+    messages:
+      activated_push: Subscribed to Notifications
+      deactivated_push: Unsubscribed from notifications
   appender:
     add: Add Stock
     noMatches: 0 Matches
