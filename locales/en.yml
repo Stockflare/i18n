@@ -2485,6 +2485,13 @@ en:
       noResults: "Sorry we can't find anything"
       noResultsLink: "Try"
     stock:
+      alerts:
+        header: Alerts
+        noAlerts:
+          firstLine: "No alerts for %n"
+          secondLine: Everything must be fine!
+        alertsWaiting: "%n Plus alerts waiting"
+        subscribeAlerts: "Subscribe just for $5"
       latest: Latest results
       visit: Visit
       etf:
