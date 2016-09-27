@@ -2599,6 +2599,7 @@ en:
         heading: Alert Settings
         subscription: Subscription
         trial: "Trial (%n days remaining)"
+        trial: "End (%n)"
         offNoticiations: Pause Email Notifications
         onNoticiations: Start Email Notifications
         paymentDetails: Update Payment Details
