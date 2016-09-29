@@ -1008,7 +1008,6 @@ en:
       es-ES: Español
       fr: Français
       fr-FR: Français
-      hi: हिन्दी
       it: Italiano
       it-IT: Italiano
       ja: 日本語
@@ -2486,6 +2485,18 @@ en:
       subtitle: "We are going on an adventure"
       noResults: "Sorry we can't find anything"
       noResultsLink: "Try"
+    peers:
+      title: Check out the alternatives
+      competitors: "%n v Top 3 Alternatives"
+      sortBy:
+        label: Sort by
+        market_value: Market Value
+        star_rating: Star Rating
+        lowest_price: Lowest Price
+        cheapest: Cheapest
+        growth: Highest Growth
+        dividend: Highest Dividend
+        upside: Best Upside to Price Target
     stock:
       alerts:
         header: Alerts
@@ -2600,7 +2611,7 @@ en:
         heading: Alert Settings
         subscription: Subscription
         trial: "Trial (%n days remaining)"
-        trial: "End (%n)"
+        end: "End (%n)"
         offNoticiations: Pause Email Notifications
         onNoticiations: Start Email Notifications
         paymentDetails: Update Payment Details
