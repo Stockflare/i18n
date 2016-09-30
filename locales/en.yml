@@ -2497,7 +2497,7 @@ en:
         growth: Highest Growth
         dividend: Highest Dividend
         upside: Best Upside to Price Target
-        back: "Back to %n"
+      back: "Back to %n"
       stockPeer:
           forecastPe: Forecast PE
     stock:
