@@ -1870,6 +1870,9 @@ en:
       last_updated: Last Updated %n
       percentChange: Percentage Change
       price: Stock Price
+    alerts:
+      free: Current Alerts
+      paid: Plus Alerts
     information:
       breakdown: Key Metrics
       competitors: Competitors
