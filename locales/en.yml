@@ -2499,7 +2499,7 @@ en:
         upside: Best Upside to Price Target
       back: "Back to %n"
       stockPeer:
-        forecast_pe: "Forecast PE %nx"
+        forecast_pe: Forecast PE
         lowest_price: Latest price
         growth: Long term growth
         dividend: Forecast yield
