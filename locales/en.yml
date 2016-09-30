@@ -2497,6 +2497,7 @@ en:
         growth: Highest Growth
         dividend: Highest Dividend
         upside: Best Upside to Price Target
+        back: "Back to %n"
         stockPeer:
           forecastPe: Forecast PE
     stock:
@@ -2509,6 +2510,7 @@ en:
         subscribeAlerts: "Subscribe just for $5"
       latest: Latest results
       visit: Visit
+      peers: Find Alternatives
       etf:
         title: Key metrics for
         text: Check out key metrics. We run the analysis for the primary stock.
