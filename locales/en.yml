@@ -2489,7 +2489,7 @@ en:
       title: Looking for an alternative?
       competitors: "%n v Top 3 by criteria"
       sortBy:
-        label: Sort by
+        label: "Sorted by: "
         market_value: Market Value
         star_rating: Star Rating
         lowest_price: Lowest Price
