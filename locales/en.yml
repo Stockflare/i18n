@@ -2500,6 +2500,7 @@ en:
         growth: Highest Growth
         dividend: Highest Dividend
         upside: Best Upside to Price Target
+        near_fifty_two_week_low: Near 52 Week Low
       back: "Back to %n"
       stockPeer:
         forecast_pe: Forecast PE
@@ -2507,6 +2508,7 @@ en:
         growth: Long term growth
         dividend: Forecast yield
         upside: Upside to price target
+        near_fifty_two_week_low: "52 week low price"
       footer: Alternatives sorted by your criteria and market value.
     stock:
       alerts:
