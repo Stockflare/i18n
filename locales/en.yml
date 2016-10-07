@@ -2464,6 +2464,7 @@ en:
     explore:
       title: Explore stocks
       subtitle: Explore stocks within different / convenient baskets
+      empty: "Sorry, no results"
     homepage:
       title: "Pick stocks easily"
       subtitle: "Pick stocks easily using our unique ratings"
