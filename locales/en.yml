@@ -1921,6 +1921,16 @@ en:
         description: Here you can find detailed information about %n, including peer comparisons on key metrics.
         title: Breakdown
       peers:
+        label: Sort by %n
+        sorting:
+          byStarRating: Star Rating
+          byMarketValue: Market Value (USD)
+          byLowestPrice: Lowest Price First
+          byCheapest: Cheapest First
+          byGrowth: High Growth
+          byDividends: Dividends
+          byUpside: Highest Upside
+          by52WeekLow: Fifty Two Week Low
         table:
           dps: DPS
           eps: EPS
@@ -1932,6 +1942,7 @@ en:
           upside: Upside
         titles:
           main: Company Competitors
+          sorting: Top Alternatives
       profitable:
         titles:
           epsForecast: Short Term EPS Forecast
