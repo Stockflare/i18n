@@ -236,11 +236,11 @@ en:
       close: Hide these alerts
     cta:
       alternative:
-        button: "Find Alternatives"
+        button: "Find Alternatives?"
         url: "https://stockflare.com/$/stocks/%ric/breakdown/peers"
       buy:
-        button: "Buy More"
-        url: "https://stockflare.com/$/trade/stocks/%ric"
+        button: "Time to Review it?"
+        url: "https://stockflare.com/$/stocks/%ric"
   appender:
     add: Add Stock
     noMatches: 0 Matches
