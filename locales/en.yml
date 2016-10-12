@@ -234,6 +234,11 @@ en:
       trial: Try Plus Alerts
       upgrade: Upgrade to Plus Alerts
       close: Hide these alerts
+    cta:
+      alternative:
+        button: "Find Alternatives"
+      buy:
+        button: "Buy More"
   appender:
     add: Add Stock
     noMatches: 0 Matches
