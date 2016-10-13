@@ -2413,6 +2413,7 @@ en:
       concentration:
         title: Concentration
       rating:
+        title: Rating
         quantity: "Based on %n stocks"
         quality:
           low: Low Quality
