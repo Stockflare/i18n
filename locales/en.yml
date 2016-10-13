@@ -2409,6 +2409,18 @@ en:
         data: Our data partners
         tos: Terms of service
         privacy: Privacy policy
+    account:
+      concentration:
+        title: Concentration
+      rating:
+        quantity: "Based on %n stocks"
+        quality:
+          low: Low Quality
+          medium: Medium Quality
+          high: High Quality
+        speculative:
+          text: "Over n%% of your portfolio is speculative"
+          notice: "You should invest in more high quality stocks."
     alerts:
       title: Alerts
       settings: Alert Settings
