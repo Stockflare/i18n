@@ -1948,6 +1948,7 @@ en:
           rating: Key Metrics
           ric: RIC
           upside: Upside
+          dividend_yield: Dividend Yield
         titles:
           main: Company Competitors
           sorting: Top Alternatives
