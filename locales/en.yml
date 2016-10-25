@@ -2118,6 +2118,10 @@ en:
     social:
       email: Email to a friend
     stats:
+      cheapest: 'Forecast P/E'
+      growth: Long Term Growth
+      yield: Dividend Yield
+      upside: Upside
       fifty_two_week: 52 Week High/Low
       industry: Industry
       value: Market Value
