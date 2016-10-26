@@ -2416,6 +2416,28 @@ en:
         tos: Terms of service
         privacy: Privacy policy
     account:
+      breakdown:
+        title: Portfolio Analytics
+        dividend:
+          title: Dividend Yiels
+          paying: Companies paying dividends
+          balance:
+            positive: Good Balance
+            neutral: Need Improvement
+            negative: Bad Balance
+        performance:
+          title: Performance
+          threeMonthGain: 3 months gain
+          oneMonthGain: 1 month gain
+          investedAt: Invested at price
+        valuation:
+          title: Valuation
+          forecastPe: Forecast PE Ratio
+          previousPe: Previous PE Ratio
+          marketPe: Forecast Market PE
+        weightedAverage: Weighted Average
+        marketAverage: Market Average
+        basedOn: Based on %n Profitable stocks
       concentration:
         title: Concentration
       rating:
