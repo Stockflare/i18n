@@ -2419,8 +2419,10 @@ en:
       breakdown:
         title: Portfolio Analytics
         dividend:
-          title: Dividend Yiels
+          title: Dividend Yield
           paying: Companies paying dividends
+          weightedAverage: Weighted Average
+          marketAverage: Market Average
           balance:
             positive: Good Balance
             neutral: Need Improvement
@@ -2435,8 +2437,6 @@ en:
           forecastPe: Forecast PE Ratio
           previousPe: Previous PE Ratio
           marketPe: Forecast Market PE
-        weightedAverage: Weighted Average
-        marketAverage: Market Average
         basedOn: Based on %n Profitable stocks
       concentration:
         title: Concentration
