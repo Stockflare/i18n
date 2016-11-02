@@ -2256,6 +2256,27 @@ en:
         tooShort: Password is too short
   watchlist:
     actualChange: Actual Change (1 Day)
+    guestAnalysisCta: Register to have this portfolio analyzed
+    earning:
+      title: Earnings
+      gain: '%n month gain'
+      investedAt: Invested at price
+    valuation:
+      title: Valuation
+      basis: 'Based on %n profitable stocks'
+      ratios:
+        title: '%n PE Ratio'
+        previous: Previous
+        forecast: Forecast
+    yield:
+      title: Dividend Yield
+      balance:
+        good: Good Balance
+        bad: Poor Balance
+      subtitles:
+        paying: Companies paying dividends
+        weighted: Weighted Average
+        local: '%n Average'
     balance:
       balance:
         over: is over balanced by %n
