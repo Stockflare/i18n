@@ -2443,7 +2443,7 @@ en:
           title: Dividend Yield
           paying: Companies paying dividends
           weightedAverage: Weighted Average
-          marketAverage: Market Average
+          marketAverage: "%n Average"
           balance:
             positive: Good Balance
             neutral: Need Improvement
@@ -2457,7 +2457,7 @@ en:
           title: Valuation
           forecastPe: Forecast PE Ratio
           previousPe: Previous PE Ratio
-          marketPe: Forecast Market PE
+          marketPe: "%n PE Ratio"
         basedOn: Based on %n Profitable stocks
       concentration:
         title: Concentration
