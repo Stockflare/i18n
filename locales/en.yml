@@ -2257,6 +2257,8 @@ en:
   watchlist:
     actualChange: Actual Change (1 Day)
     guestAnalysisCta: Register to have this portfolio analyzed
+    emptyAnalysisCta: Add stocks to have this portfolio analyzed
+    emptyAnalysisButton: Explore Stocks
     earning:
       title: Earnings
       gain: '%n month gain'
