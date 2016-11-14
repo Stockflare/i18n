@@ -2266,7 +2266,7 @@ en:
     emptyAnalysisCta: Add stocks to have this portfolio analyzed
     emptyAnalysisButton: Explore Stocks
     earning:
-      title: Earnings
+      title: Performance
       gain: '%n month gain'
       investedAt: Invested at price
     valuation:
