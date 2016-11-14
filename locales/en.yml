@@ -72,6 +72,12 @@ en:
       positive: 'There has been a stock split for %short_name on %split_date with a split ratio of %ratio. The price today is %price versus %price_yesterday on %timestamp.'
     consolidation:
       negative: 'There has been a stock consolidation for %short_name on %split_date with a consolidation ratio of %ratio. The price today is %price versus %price_yesterday on %timestamp.'
+    price_pre_market:
+      positive: '%short_name was up %price_change pre-market.'
+      negative: '%short_name was down %price_change pre-market.'
+    price_after_market:
+      positive: '%short_name was up %price_change in after hours trading.'
+      negative: '%short_name was down %price_change in after hours trading.'
     price_intraday:
       positive: '%short_name was up %price_change intra-day.'
       negative: '%short_name was down %price_change intra-day.'
