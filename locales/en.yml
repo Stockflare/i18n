@@ -2076,6 +2076,28 @@ en:
             lose: lose
           valid: This stock is forecast to %n %n% per annum over the next 7 years.
         title: What it's Worth
+      chart:
+        extra_series:
+          target_price:
+            label: "Target Price"
+          forecast_eps:
+            label: "Forecast EPS"
+          forecast_dps:
+            label: "Forecast DPS"
+          forecast_pe:
+            label: "Forecase PE"
+          forecast_sales:
+            label: "Forecast Sales"
+          rating:
+            label: "Star Rating"
+          long_term_growth:
+            label: "Long Term Growth"
+          long_term_gain:
+            label: "Long Term Gain"
+          recommendation:
+            label: "Buy / Sell / Hold"
+          price:
+            label: 'Price'
     notification:
       insufficientData: We do not have enough data to perform this calculation
       stale: The data for this stock has not been updated for at least 10 days and may now be stale.
