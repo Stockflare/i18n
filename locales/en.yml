@@ -2085,7 +2085,7 @@ en:
           forecast_dps:
             label: "Forecast DPS"
           forecast_pe:
-            label: "Forecase PE"
+            label: "Forecast PE"
           forecast_sales:
             label: "Forecast Sales"
           rating:
