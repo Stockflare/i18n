@@ -201,7 +201,7 @@ en:
           gain: Gain
       title: Portfolio Breakdown
     broker:
-      unlink: Unlink broker %n and delete account information
+      unlink: Unlink broker and delete account information
       unlinkError: Cound not unlink your account
     danger:
       button: Unlink broker
@@ -2455,7 +2455,7 @@ en:
         shares: "No. Shares"
         total: "Total"
     broker:
-      unlink: "Unlink broker %n and delete account information"
+      unlink: "Unlink broker and delete account information"
       unlinkError: "Cound not unlink your account"
   mobile:
     about:
