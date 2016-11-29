@@ -219,7 +219,7 @@ en:
           gain: Gain
       title: Portfolio Breakdown
     broker:
-      unlink: Unlink broker %n and delete account information
+      unlink: Unlink broker and delete account information
       unlinkError: Cound not unlink your account
     danger:
       button: Unlink broker
@@ -2094,6 +2094,28 @@ en:
             lose: lose
           valid: This stock is forecast to %n %n% per annum over the next 7 years.
         title: What it's Worth
+      chart:
+        extra_series:
+          target_price:
+            label: "Target Price"
+          forecast_eps:
+            label: "Forecast EPS"
+          forecast_dps:
+            label: "Forecast DPS"
+          forecast_pe:
+            label: "Forecast PE"
+          forecast_sales:
+            label: "Forecast Sales"
+          rating:
+            label: "Star Rating"
+          long_term_growth:
+            label: "Long Term Growth"
+          long_term_gain:
+            label: "Long Term Gain"
+          recommendation:
+            label: "Buy / Sell / Hold"
+          price:
+            label: 'Price'
     notification:
       insufficientData: We do not have enough data to perform this calculation
       stale: The data for this stock has not been updated for at least 10 days and may now be stale.
@@ -2284,7 +2306,7 @@ en:
     emptyAnalysisCta: Add stocks to have this portfolio analyzed
     emptyAnalysisButton: Explore Stocks
     earning:
-      title: Earnings
+      title: Performance
       gain: '%n month gain'
       investedAt: Invested at price
     valuation:
@@ -2451,7 +2473,7 @@ en:
         shares: "No. Shares"
         total: "Total"
     broker:
-      unlink: "Unlink broker %n and delete account information"
+      unlink: "Unlink broker and delete account information"
       unlinkError: "Cound not unlink your account"
   mobile:
     about:
