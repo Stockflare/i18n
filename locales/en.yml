@@ -68,6 +68,24 @@ en:
             button: Subscribe
 
   notifications:
+    portfolio_concentration:
+      positive:
+        sectors: 'Today your investments are spread across %num_of_sectors sectors.'
+        concentrated: 'You are concentrated in %concentrated.'
+        missing: 'Missing from your portfolio are %missing_sectors.'
+    portfolio_dividends:
+      negative: '%percent_of_paying_stocks of your stocks pay dividends with a forecast yield of %forecast_yield. That\'s below the %local_name forecast yield of %local_yield.'
+      positive: '%percent_of_paying_stocks of your stocks pay dividends with a forecast yield of %forecast_yield. That\'s above the %local_name forecast yield of %local_yield.'
+    portfolio_profitability:
+      positive: '%num_of_profitable_stocks of the %num_of_stocks stocks are profitable with an average PE ratio of %average_pe forecast earnings. That\'s above the %local_name forecast PE of %local_pe.'
+      negative: '%num_of_profitable_stocks of the %num_of_stocks stocks are profitable with an average PE ratio of %average_pe forecast earnings. That\'s below the %local_name forecast PE of %local_pe.'
+    portfolio_rating:
+      positive:
+        average: 'There are %stocks stocks in your portfolio with an average rating of %rating stars.'
+        speculative: 'We rate %speculative of your portfolio as Speculative, including: %names'
+    portfolio_worth:
+      positive: 'Your portfolio is worth %value today. It\'s up %gain versus your initial cash investments. That\'s a net gain of %change overall.'
+      negative: 'Today your portfolio is worth %value. It is down %gain versus your initial cash investments. That\'s a net loss of %change overall.'
     split:
       positive: 'There has been a stock split for %short_name on %split_date with a split ratio of %ratio. The price today is %price versus %price_yesterday on %timestamp.'
     consolidation:
