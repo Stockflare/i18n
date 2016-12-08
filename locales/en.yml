@@ -2124,6 +2124,8 @@ en:
             label: "Buy / Sell / Hold"
           price:
             label: 'Price'
+          ten_day_average_volume:
+            label: "Volume"
     notification:
       insufficientData: We do not have enough data to perform this calculation
       stale: The data for this stock has not been updated for at least 10 days and may now be stale.
