@@ -3089,3 +3089,5 @@ en:
         long_term_investing: "Stockflare believes in long term investing in stocks and low cost ETFs. We do not believe that high cost mutual funds or active managers represent value for money. We do not like complex investments, speculation or day trading. As Phil Fisher said: Conservative investors sleep better."
         loss_warning: "Please remember that investing involves risk and investments may lose value, i.e. you will lose money on some of your investments. Therefore one of our key goals at Stockflare, is to provide you with tools to help you minimize your losses."
         invest_wise: "Save more. Invest wisely."
+  loading:
+    default: "Please wait, fetching data"
