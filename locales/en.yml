@@ -2665,6 +2665,9 @@ en:
       latest: Latest results
       visit: Visit
       peers: Find Alternatives
+      share:
+        title: Share
+        label: "Share via %n"
       etf:
         title: Key metrics for
         text: Check out key metrics. We run the analysis for the primary stock.
