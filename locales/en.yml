@@ -2654,6 +2654,33 @@ en:
         upside: Upside to price target
         near_fifty_two_week_low: "52 week low price"
       footer: Alternatives sorted by your criteria and market value.
+    pickStocks:
+      title: Find Stocks
+      actions:
+        find: Find Stocks
+        filter: "Apply & Close"
+        save: Save Filter
+        clear: Clear All Filters
+      filters:
+        title: Filters
+        starRating:
+          label: Stockflare Star rating
+          values:
+            cheaper: Cheaper than Competitors
+            growing: Growing faster than Competitors
+            profitable: Profitable Company
+            dividends: Pays Dividends
+            upside: Loved by Wallstreet Experts
+        price:
+          label: Price
+          values:
+            under50: "Under $50"
+            50to100: "$50 - $100"
+            100to250: "$100 - $250"
+            250to1000: "$250 - $1000"
+            over1000: "$1000 +"
+        businessMetrics:
+
     stock:
       alerts:
         header: Alerts
