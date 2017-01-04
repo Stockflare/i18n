@@ -2702,7 +2702,7 @@ en:
             profit: "Less than 7x Operating Profit"
         investingStyle:
           label: Investing Style
-          inverstingStyle:
+          investingStyle:
             label: Inversting Style
             values:
               good: Good Value
