@@ -2679,6 +2679,8 @@ en:
             100to250: "$100 - $250"
             250to1000: "$250 - $1000"
             over1000: "$1000 +"
+        country:
+          label: Country
         businessMetrics:
           label: Business Metrics
           values:
