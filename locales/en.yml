@@ -2680,7 +2680,45 @@ en:
             250to1000: "$250 - $1000"
             over1000: "$1000 +"
         businessMetrics:
-
+          label: Business Metrics
+          values:
+            small: Small Companies Only
+            large: Large Companies Only
+            profitableToday: Profitable Today
+            profitable: Turning Profitable
+            growing: Growing
+            highGrowth: High Growth Only
+            dividends: Pays Dividends Only
+            cash: Has Cash and Investments
+        valuation:
+          label: Valuation
+          values:
+            low: "PE Ration Under 10x"
+            high: "Dividend yield over 4%"
+            priceToBook: "Trading below Book Value"
+            enterprise: "Less than 1x Sales"
+            profit: "Less than 7x Operating Profit"
+        investingStyle:
+          label: Investing Style
+          inverstingStyle:
+            label: Inversting Style
+            values:
+              good: Good Value
+              growth: High Growth
+              quality: High Quality
+          sentiment:
+            label: Sentiment
+            values:
+              loved: Loved by Wall Street
+              hated: Hated by Wall Street
+              unknown: Unknown by Wall Street
+          priceDirection:
+            label: Price Direction
+            values:
+              positiveMomentum: Positive Momentum
+              negativeMomentum: Negative Momentum
+              highWeek: Near 52 Week High
+              lowWeek: Near 52 Week Low
     stock:
       alerts:
         header: Alerts
