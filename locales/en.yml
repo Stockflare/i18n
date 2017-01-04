@@ -2681,7 +2681,7 @@ en:
             over1000: "$1000 +"
         country:
           label: Country
-        businessMetrics:
+        metrics:
           label: Business Metrics
           values:
             small: Small Companies Only
