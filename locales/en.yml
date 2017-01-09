@@ -2656,6 +2656,10 @@ en:
       footer: Alternatives sorted by your criteria and market value.
     pickStocks:
       title: Find Stocks
+      selectPlaceholder: "Select..."
+      summary:
+        title: Your Results
+        subtitle: "%n Results Found"
       actions:
         find: Find Stocks
         filter: "Apply & Close"
@@ -2681,6 +2685,7 @@ en:
             over1000: "$1000 +"
         country:
           label: Country
+          filterPlaceholder: "Type Country Name..."
         metrics:
           label: Business Metrics
           values:
