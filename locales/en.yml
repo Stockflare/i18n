@@ -2703,7 +2703,7 @@ en:
         investingStyle:
           label: Investing Style
           investingStyle:
-            label: Inversting Style
+            label: Investing Style
             values:
               good: Good Value
               growth: High Growth
