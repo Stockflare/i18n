@@ -1147,8 +1147,8 @@ en:
     wallStreet: This table presents the upside to the "Wall Street" consensus price target and the consensus recommendation for the stocks in your Watchlist. There is no data on the future. Therefore this consensus is subjective analysis, not objective. Stockflare doesn't endorse the views of "Wall Street". We present this data, so our users can see what the sentiment of the experts is towards any stock.
     worth: This table combines the long-term earnings forecast from the "Wall Street" consensus, the forecast dividend yield and a reversion-to-mean of the forecast PE ratio. Therefore the projected gain figure is based on the subjective analysis of the professionals, and is not objective. Stockflare doesn't endorse the views of "Wall Street". We present this data, so our users can see what the sentiment of the experts is towards a stock. There is no data on the future. If the experts' forecasts are wrong, the actual gain will be materially different to the figures presented here.
   errors:
-    api_error: Shucks, there was an error contacting our servers.
-    not_found: Woops, this page does not exist.
+    api_error: Sorry, our servers are temporarily overloaded. Please give us 3 minutes to add extra capacity.
+    not_found: Oh! looks like this page does not exist. Sorry.
     stock_not_tradeable: Sorry, this stock cannot be traded at the moment.
   explore:
     all: All Stocks
