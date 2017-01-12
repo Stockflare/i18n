@@ -76,12 +76,12 @@ en:
         missing: "Missing from your portfolio are %missing_sectors."
     portfolio_dividends:
       title: "Dividend Yield"
-      negative: "%percent_of_paying_stocks of your stocks pay dividends with a forecast yield of %forecast_yield. That's below the %local_name forecast yield of %local_yield."
-      positive: "%percent_of_paying_stocks of your stocks pay dividends with a forecast yield of %forecast_yield. That's above the %local_name forecast yield of %local_yield."
+      negative: "%percent_of_paying_stocks of your stocks are forecast to pay dividends with a forecast yield of %forecast_yield. That's below the %local_name forecast yield of %local_yield."
+      positive: "%percent_of_paying_stocks of your stocks are forecast pay dividends with a forecast yield of %forecast_yield. That's above the %local_name forecast yield of %local_yield."
     portfolio_profitability:
-      title: "Portfolio Forecast"
-      positive: "%num_of_profitable_stocks of the %num_of_stocks stocks are profitable with an average PE ratio of %average_pe forecast earnings. That's above the %local_name forecast PE of %local_pe."
-      negative: "%num_of_profitable_stocks of the %num_of_stocks stocks are profitable with an average PE ratio of %average_pe forecast earnings. That's below the %local_name forecast PE of %local_pe."
+      title: "Portfolio Valuation"
+      positive: "%num_of_profitable_stocks of the %num_of_stocks stocks are profitable with an average forecast PE ratio of %average_pe. That's above the %local_name forecast PE of %local_pe."
+      negative: "%num_of_profitable_stocks of the %num_of_stocks stocks are profitable with an average forecast PE ratio of %average_pe. That's below the %local_name forecast PE of %local_pe."
     portfolio_rating:
       title: "Stockflare Star Rating"
       positive:
