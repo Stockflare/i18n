@@ -80,8 +80,8 @@ en:
       positive: "%percent_of_paying_stocks of your stocks are forecast pay dividends with a forecast yield of %forecast_yield. That's above the %local_name forecast yield of %local_yield."
     portfolio_profitability:
       title: "Portfolio Valuation"
-      positive: "%num_of_profitable_stocks of the %num_of_stocks stocks are profitable with an average forecast PE ratio of %average_pe. That's above the %local_name forecast PE of %local_pe."
-      negative: "%num_of_profitable_stocks of the %num_of_stocks stocks are profitable with an average forecast PE ratio of %average_pe. That's below the %local_name forecast PE of %local_pe."
+      positive: "%num_of_profitable_stocks of the %num_of_stocks stocks are profitable with an average forecast PE ratio of %average_pe. That's below the %local_name forecast PE of %local_pe."
+      negative: "%num_of_profitable_stocks of the %num_of_stocks stocks are profitable with an average forecast PE ratio of %average_pe. That's above the %local_name forecast PE of %local_pe."
     portfolio_rating:
       title: "Stockflare Star Rating"
       positive:
