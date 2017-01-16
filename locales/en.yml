@@ -2795,8 +2795,8 @@ en:
           label: Profitable?
           summary: Profitable
           values:
-            positive: Yes
-            negative: No
+            positive: "Yes"
+            negative: "No"
           title:
             positive: "Profitable"
             negative: "Not Profitable"
@@ -2806,8 +2806,8 @@ en:
           label: Pays Dividends?
           summary: Pays Dividends
           values:
-            positive: Yes
-            negative: No
+            positive: "Yes"
+            negative: "No"
           title: "Dividends?"
           negative:
             text: "Not paying dividends"
