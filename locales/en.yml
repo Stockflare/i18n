@@ -2782,10 +2782,10 @@ en:
           text: "%n% growth vs. competitors with %n%"
         expert:
           label: "Wall.St Target Price"
-          summary: Expert Opinion "Sell"
+          summary: Upside to price target
           values:
-            positive: Sell
-            negative: Hold
+            positive: Upside
+            negative: Downside
           title: "Expert Opinion"
           na: "No research from experts"
           noChanges: "No difference to price target"
