@@ -2759,30 +2759,55 @@ en:
       starRating:
         title: Star Rating
         cheap:
+          label: PE Ratio
+          summary: Cheaper than competitors
+          values:
+            positive: Cheap
+            negative: Expensive
           title:
             positive: Cheap
             negative: Expensive
           na: No PE Ratio
           text: "%nx PE vs. competitors on %nx"
         stronger:
+          label: Growth
+          summary: Strong Growth
+          values:
+            positive: Strong Growth
+            negative: Weak Growth
           title:
             positive: "Stronger"
             negative: "Weaker"
           na: "No growth forecasts"
           text: "%n% growth vs. competitors with %n%"
         expert:
+          label: "Wall.St Target Price"
+          summary: Expert Opinion "Sell"
+          values:
+            positive: Sell
+            negative: Hold
           title: "Expert Opinion"
           na: "No research from experts"
           noChanges: "No difference to price target"
           upside: "%n% upside to price target"
           downside: "%n% downside to price target"
         profitable:
+          label: Profitable?
+          summary: Profitable
+          values:
+            positive: Yes
+            negative: No
           title:
             positive: "Profitable"
             negative: "Not Profitable"
           na: "No earnings forecast available"
           text: "EPS forecast"
         dividends:
+          label: Pays Dividends?
+          summary: Pays Dividends
+          values:
+            positive: Yes
+            negative: No
           title: "Dividends?"
           negative:
             text: "Not paying dividends"
