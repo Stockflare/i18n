@@ -1867,7 +1867,7 @@ en:
       mfaEnable: Enable MFA for your account by scanning the QR Code below, then entering two valid codes.
       mfaEnabled: MFA is currently enabled for this account.
       password: Leave blank if you do not wish to change your password
-      alerts_email: Do you want to receive emails of your stock alerts
+      alerts_email: Do you want to receive emails on your portfolio & watchlist
     subscription:
       silver:
         title: You are subscribed to Stockflare Plus.
@@ -2321,7 +2321,7 @@ en:
       otpE: Fifth Code
       otpF: Sixth Code
       password: Password
-      alerts_email: Get stock alert emails
+      alerts_email: Manage your email settings
     messages:
       language: Click here to reload the page with your preferred language settings
     options:
