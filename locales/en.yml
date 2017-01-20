@@ -3222,4 +3222,4 @@ en:
         invest_wise: "Save more. Invest wisely."
   loading:
     default: "Please wait, fetching data"
-    link: "Syncing with your broker.  This might take some time"
+    link: "Syncing with your broker. This may take up to 90 seconds."
