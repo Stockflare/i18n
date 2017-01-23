@@ -2766,8 +2766,15 @@ en:
         alertsWaiting: "%n Plus alerts waiting"
         subscribeAlerts: "Subscribe just for $5"
       latest: Latest results
+      description: Stock Description
       visit: Visit
       peers: Find Alternatives
+      watchlistBtn:
+        watch: 'Watch'
+        unwatch: 'Unwatch'
+      tradeBtn:
+        trade: Trade
+        notAvailable: "Sorry, our current partners only provide access to stocks in the USA and India"
       share:
         title: Share
         label: "Share via %n"
@@ -2780,6 +2787,20 @@ en:
         text: "Currently, we only run our full analysis on A shares & primary listings."
       website: Website
       million: million
+      statistics:
+        enterpriseValue: Enterpise Value
+        marketValue: Market Value
+        netDebt: Net Debt
+        netDebtText: "Net Debt levels are %n Operating Profit"
+        netCash: Net Cash
+        netCashText: "Net Cash is equivalent to %n of the Market Value"
+        lastTwelveMonths: Last 12 Months
+        forecastSales: Forecast Sales
+        netProfitForecast: Net Profit Forecast
+        priceToOperatingProfit: Price to operating profit
+        returnOnEquity: Return on Equity
+        priceToBookValue: Price to Book Value
+        priceToSales: Price to sales
       keyStats:
         title: Key Stats
       starRating:
