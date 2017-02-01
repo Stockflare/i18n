@@ -2774,13 +2774,13 @@ en:
         unwatch: 'Unwatch'
       tradeBtn:
         trade: Trade
-        notAvailable: "Sorry, our current partners only provide access to stocks in the USA and India"
+        notAvailable: "Sorry, our current partners only provide access to trading in the USA and India"
       share:
         title: Share
         label: "Share via %n"
       etf:
         title: Key metrics for
-        text: Check out key metrics. We run the analysis for the primary stock.
+        text: Check out key metrics. We run the analysis for primary stock listings.
         visit: Visit
       bshare:
         title: "Key metrics for %n ?"
@@ -2788,7 +2788,7 @@ en:
       website: Website
       million: million
       statistics:
-        enterpriseValue: Enterpise Value
+        enterpriseValue: Enterprise Value
         marketValue: Market Value
         netDebt: Net Debt
         netDebtText: "Net Debt levels are %n Operating Profit"
@@ -2828,7 +2828,7 @@ en:
           na: "No growth forecasts"
           text: "%n% growth vs. competitors with %n%"
         expert:
-          label: "Wall.St Target Price"
+          label: "Wall St Target Price"
           summary: Upside to price target
           values:
             positive: Upside
