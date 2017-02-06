@@ -2791,7 +2791,7 @@ en:
         enterpriseValue: Enterprise Value
         marketValue: Market Value
         netDebt: Net Debt
-        netDebtText: "Net Debt levels are %n Operating Profit"
+        netDebtText: "Net Debt levels are %nx Operating Profit"
         netCash: Net Cash
         netCashText: "Net Cash is equivalent to %n of the Market Value"
         lastTwelveMonths: Last 12 Months
