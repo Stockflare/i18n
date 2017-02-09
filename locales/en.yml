@@ -1180,7 +1180,19 @@ en:
     all: All Stocks
     biLine: Need a little inspiration?
     categories:
-      mega-dividends:
+      movers-shakers:
+        name: 'Movers & Shakers'
+        description: 'What stocks were in the lime light yesterday?'
+        disclaimer: 'The stocks in Movers & Shakers are based on a filter of all large cap stocks that moved more than 2.5% yesterday and all small cap stocks that moved more than 5.0%.
+      debt-heavy:
+        name: 'Debt Heavy'
+        description: 'Looking for leverage? These stocks have lots of debt!'
+        disclaimer: 'The stocks in Debt Heavy are based on a filter of all stocks that are not in the Financials sector that have net debt that is more than 3 times the operating profit.'
+      high-upside:
+        name: 'High Upside'
+        description: 'What stocks does Wall Street think are worth +50% more'
+        disclaimer: 'The stocks in High Upside are based on a filter of all stocks that worth more than $500m and have a price target that is at least 50% above the current share price.'
+      mega-dividends: '
         name: 'Mega Dividends'
         description: 'If cash is king, then getting lots of dividends may be just the ticket!'
         disclaimer: 'The stocks in Mega Dividends are based on a filter of all stocks with a market value over $500m that have a dividend yield over 5%. We exclude any outliers that have a forecast dividend higher than the forecast earnings.'
