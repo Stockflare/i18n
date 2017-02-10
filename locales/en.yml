@@ -1196,11 +1196,11 @@ en:
         name: 'High Upside'
         description: 'What stocks does Wall Street think are worth +50% more'
         disclaimer: 'The stocks in High Upside are based on a filter of all stocks that worth more than $500m and have a price target that is at least 50% above the current share price.'
-      less-than-book
+      less-than-book:
         name: 'Less than Book'
         description: 'It is rare, but sometimes a stock is trading lower that book value. Wonder why?'
         disclaimer: 'The stocks in Less than Book are based on a filter of all stocks worth more than $100m that are trading at less than 1 times book value, have a positive reported and historic eps.'
-      mega-dividends: '
+      mega-dividends:
         name: 'Mega Dividends'
         description: 'If cash is king, then getting lots of dividends may be just the ticket!'
         disclaimer: 'The stocks in Mega Dividends are based on a filter of all stocks with a market value over $500m that have a dividend yield over 5%. We exclude any outliers that have a forecast dividend higher than the forecast earnings.'
