@@ -2812,6 +2812,7 @@ en:
         marketValue: Market Value
         netDebt: Net Debt
         netDebtText: "Net Debt levels are %nx Operating Profit"
+        netDebtTextNA: "Net Debt to Operating Profit is N/A"
         netCash: Net Cash
         netCashText: "Net Cash is equivalent to %n of the Market Value"
         lastTwelveMonths: Last 12 Months
