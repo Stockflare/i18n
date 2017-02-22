@@ -1180,6 +1180,30 @@ en:
     all: All Stocks
     biLine: Need a little inspiration?
     categories:
+      debt-heavy:
+        name: 'Debt Heavy'
+        description: 'Weighed down by their debts, can you spot stocks good for a turn around?'
+        disclaimer: 'The stocks in Debt Heavy are based on a filter of all stocks with a market value over $500m that are not Financials but have a net debt to operating profit metric over 3x' 
+      latest-greatest:
+        name: 'Latest. And Greatest?'
+        description: 'Do you like new stuff? How about recent IPOs?'
+        disclaimer: 'The stocks in Latest. And Greatest? are based on a filter of all stocks worth more than $50m that completed their initial public offering in the last three months'
+      top-job:
+        name: 'Tob Job'
+        description: 'Like Productivity? How about the stocks with the highest revenue per employee?'
+        disclaimer: 'The stocks in Top Job are based on a filter of all stocks worth more than $500m ranked by the highest revenue per employee in US dollars'
+      positive-fundamentals:
+        name: 'On A Roll'
+        description: 'Better sales, better earnings, and brokers are getting happy!'
+        disclaimer: 'The stocks in On A Roll are based on a filter of all stocks that have seen two consecutive increases in the consensus target price, forecast sales and forecast earnings'
+      negative-fundamentals:
+        name: 'Tide Turning'
+        description: 'Worse sales, worse earnings, and Wall Street is not so happy!"
+        disclaimer: 'The stocks in On A Roll are based on a filter of all stocks that have seen two consecutive declines in the consensus target price, forecast sales and forecast earnings'
+      us-option:
+        name: 'Coming to America'
+        description: 'There are lots of non-resident aliens in the US. Recognize any?'
+        disclaimer: 'The stocks in Coming To America are based on a filter of all Depository Receipts listed in the US'
       mega-dividends:
         name: 'Mega Dividends'
         description: 'If cash is king, then getting lots of dividends may be just the ticket!'
