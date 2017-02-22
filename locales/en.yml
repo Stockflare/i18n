@@ -1180,26 +1180,6 @@ en:
     all: All Stocks
     biLine: Need a little inspiration?
     categories:
-      movers-shakers:
-        name: 'Movers & Shakers'
-        description: 'What stocks were in the lime light yesterday?'
-        disclaimer: 'The stocks in Movers & Shakers are based on a filter of all large cap stocks that moved more than 2.5% yesterday and all small cap stocks that moved more than 5.0%.'
-      latest-greatest:
-        name: 'Latest. And Greatest?'
-        description: 'Do you like new stuff? How about recent IPOs?'
-        disclaimer: 'The stocks in Latest. And Greatest? are based on a filter of all stocks worth more than $50m that completed their initial public offering in the last three months.'
-      debt-heavy:
-        name: 'Debt Heavy'
-        description: 'Looking for leverage? These stocks have lots of debt!'
-        disclaimer: 'The stocks in Debt Heavy are based on a filter of all stocks that are not in the Financials sector that have net debt that is more than 3 times the operating profit.'
-      high-upside:
-        name: 'High Upside'
-        description: 'What stocks does Wall Street think are worth +50% more'
-        disclaimer: 'The stocks in High Upside are based on a filter of all stocks that worth more than $500m and have a price target that is at least 50% above the current share price.'
-      less-than-book:
-        name: 'Less than Book'
-        description: 'It is rare, but sometimes a stock is trading lower that book value. Wonder why?'
-        disclaimer: 'The stocks in Less than Book are based on a filter of all stocks worth more than $100m that are trading at less than 1 times book value, have a positive reported and historic eps.'
       mega-dividends:
         name: 'Mega Dividends'
         description: 'If cash is king, then getting lots of dividends may be just the ticket!'
@@ -2794,13 +2774,13 @@ en:
         unwatch: 'Unwatch'
       tradeBtn:
         trade: Trade
-        notAvailable: "Sorry, our current partners only provide access to trading in the USA and India"
+        notAvailable: "Sorry, our current partners only provide access to stocks in the USA and India"
       share:
         title: Share
         label: "Share via %n"
       etf:
         title: Key metrics for
-        text: Check out key metrics. We run the analysis for primary stock listings.
+        text: Check out key metrics. We run the analysis for the primary stock.
         visit: Visit
       bshare:
         title: "Key metrics for %n ?"
@@ -2808,11 +2788,10 @@ en:
       website: Website
       million: million
       statistics:
-        enterpriseValue: Enterprise Value
+        enterpriseValue: Enterpise Value
         marketValue: Market Value
         netDebt: Net Debt
-        netDebtText: "Net Debt levels are %nx Operating Profit"
-        netDebtTextNA: "Net Debt to Operating Profit is N/A"
+        netDebtText: "Net Debt levels are %n Operating Profit"
         netCash: Net Cash
         netCashText: "Net Cash is equivalent to %n of the Market Value"
         lastTwelveMonths: Last 12 Months
@@ -2832,6 +2811,9 @@ en:
           values:
             positive: Cheap
             negative: Expensive
+          graph:
+            first: Forecast PE
+            second: Competitors
           title:
             positive: Cheap
             negative: Expensive
@@ -2839,21 +2821,31 @@ en:
           text: "%nx PE vs. competitors on %nx"
         stronger:
           label: Growth
-          summary: Strong Growth
+          summary: Strong
           values:
-            positive: Strong Growth
-            negative: Weak Growth
+            positive: Strong
+            negative: Weak
+          graph:
+            first: LT Growth
+            second: Competitors
+            info: ST growth is negative
           title:
             positive: "Stronger"
             negative: "Weaker"
           na: "No growth forecasts"
           text: "%n% growth vs. competitors with %n%"
         expert:
-          label: "Wall St Target Price"
+          label: "Wall.St Target Price"
           summary: Upside to price target
           values:
             positive: Upside
             negative: Downside
+          graph:
+            first: Target Price
+            second:
+              upside: Upside
+              downside: Downside
+            info: "Wall St says %n"
           title: "Expert Opinion"
           na: "No research from experts"
           noChanges: "No difference to price target"
@@ -2865,6 +2857,9 @@ en:
           values:
             positive: "Yes"
             negative: "No"
+          graph:
+            first: Historic EPS
+            second: Forecast EPS
           title:
             positive: "Profitable"
             negative: "Not Profitable"
@@ -2876,6 +2871,12 @@ en:
           values:
             positive: "Yes"
             negative: "No"
+          graph:
+            first:
+              forecast: Forecast DPS
+              historic: Historic DPS
+            second: Yield
+            info: "No Star. DPS > EPS"
           title: "Dividends?"
           negative:
             text: "Not paying dividends"
@@ -2965,7 +2966,7 @@ en:
       myWatchlist: My Watchlist
       inputLabel: Watchlist Name
       selectWatchlist: Select watchlist
-      subtitle: "Add as many as you like"
+      subtitle: "Your watchlists are listed by Market Value"
       empty: "Not watching any stocks yet? Why not \"Explore\" some stocks and add your favorites to a watchlist?"
       emptyTitle: Explore Stocks
       shares:
