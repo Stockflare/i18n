@@ -1183,7 +1183,7 @@ en:
       debt-heavy:
         name: 'Debt Heavy'
         description: 'Weighed down by their debts, can you spot stocks good for a turn around?'
-        disclaimer: 'The stocks in Debt Heavy are based on a filter of all stocks with a market value over $500m that are not Financials but have a net debt to operating profit metric over 3x' 
+        disclaimer: 'The stocks in Debt Heavy are based on a filter of all stocks with a market value over $500m that are not Financials but have a net debt to operating profit metric over 3x'
       latest-greatest:
         name: 'Latest. And Greatest?'
         description: 'Do you like new stuff? How about recent IPOs?'
@@ -1191,14 +1191,14 @@ en:
       top-job:
         name: 'Tob Job'
         description: 'Like Productivity? How about the stocks with the highest revenue per employee?'
-        disclaimer: 'The stocks in Top Job are based on a filter of all stocks worth more than $500m ranked by the highest revenue per employee in US dollars'
+        disclaimer: 'The stocks in Top Job are based on a filter of all stocks worth more than $500m with revenue per employee over 1M US dollars'
       positive-fundamentals:
         name: 'On A Roll'
         description: 'Better sales, better earnings, and brokers are getting happy!'
         disclaimer: 'The stocks in On A Roll are based on a filter of all stocks that have seen two consecutive increases in the consensus target price, forecast sales and forecast earnings'
       negative-fundamentals:
         name: 'Tide Turning'
-        description: 'Worse sales, worse earnings, and Wall Street is not so happy!"
+        description: 'Worse sales, worse earnings, and Wall Street is not so happy!'
         disclaimer: 'The stocks in On A Roll are based on a filter of all stocks that have seen two consecutive declines in the consensus target price, forecast sales and forecast earnings'
       us-option:
         name: 'Coming to America'
