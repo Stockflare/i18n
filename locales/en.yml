@@ -2717,6 +2717,9 @@ en:
         clear: Clear All Filters
       filters:
         title: Filters
+        sector:
+          label: Sector
+          filterPlaceholder: "Type sector name..."
         starRating:
           label: Stockflare Star rating
           values:
