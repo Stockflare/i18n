@@ -2862,7 +2862,7 @@ en:
           na: "No growth forecasts"
           text: "%n% growth vs. competitors with %n%"
         expert:
-          label: "Wall.St Target Price"
+          label: "Wall Street Target"
           summary: Upside to price target
           values:
             positive: Upside
