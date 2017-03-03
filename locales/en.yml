@@ -2639,6 +2639,9 @@ en:
         newPassword: Desired Password
       lastUpdated: Last Updated
       search: Search
+      login:
+        createAccountTitle: "Not Joined Stockflare Yet?"
+        createAccountText: "Register and test out our full range of data and analytics. You can connect your live brokerage account and get key insights into your investments. Never miss out on key events with our alerts & notifications. So what are you waiting for?"
     connect:
       connecting:
         title: Logging In
