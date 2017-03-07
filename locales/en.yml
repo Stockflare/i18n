@@ -2659,7 +2659,7 @@ en:
       info: "By clicking 'login' you agree to our terms of service"
     explore:
       title: Explore stocks
-      subtitle: Explore stocks within different / convenient baskets
+      subtitle: "Explore stocks within different / convenient baskets"
       empty: "Sorry, no results"
     disclaimer:
       links:
@@ -2669,8 +2669,8 @@ en:
         barchart: "Barchart"
         iex: "IEX Trading"
         tradeit: "Trading Ticket Inc"
-      partOne: "%pagesLink is an information service provided on an "as is" and "as available" basis. We do not provide advice and do not make recommendations. We are a research tool for self-directed investors. Please read our %tosLink."
-      partTwo: "End-of-day pricing data, fundamentals and estimates are provided by %reutersLink. Delayed pricing data for BATS, AMEX, NYSE, and NASDAQ are provided by %barchartLink and is at least 10 minutes delayed. Real-time pricing is provided free by %iexLink. Integration for US brokerage firms is powered by %tradeitLink."
+      partOne: '%pagesLink is an information service provided on an "as is" and "as available" basis. We do not provide advice and do not make recommendations. We are a research tool for self-directed investors. Please read our %tosLink.'
+      partTwo: 'End-of-day pricing data, fundamentals and estimates are provided by %reutersLink. Delayed pricing data for BATS, AMEX, NYSE, and NASDAQ are provided by %barchartLink and is at least 10 minutes delayed. Real-time pricing is provided free by %iexLink. Integration for US brokerage firms is powered by %tradeitLink.'
     register:
       ad:
         title: "Why Register?"
