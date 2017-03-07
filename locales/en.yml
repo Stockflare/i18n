@@ -2837,7 +2837,7 @@ en:
       website: Website
       million: million
       statistics:
-        enterpriseValue: Enterpise Value
+        enterpriseValue: Enterprise Value
         marketValue: Market Value
         netDebt: Net Debt
         netDebtText: "Net Debt levels are %n Operating Profit"
