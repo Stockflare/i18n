@@ -27,7 +27,7 @@ en:
   subscriptions:
     subscribed:
       title: Successfully Supercharged!
-      description: 'After the free trial, we will get in contact to ask for your card details. Then, if you sign-up, you will be billed %n until the plan is canceled.'
+      description: 'After the free trial, we will get in contact to ask for your card details. Then, if you sign-up, you will be billed %n until the plan is cancelled.'
       buttons:
         portfolio: View my Portfolio
         alerts: View my Alerts
@@ -53,13 +53,13 @@ en:
               description: You need more than just price alerts. Get alerts on how the underlying business is performing. Best you know if the business is turning sour!
             second:
               title: Connected Portfolios
-              description: Connect your brokerage account and we'll provide a regular healthcheck on your investments and signal when you should think about rebalancing.
+              description: Connect your brokerage account and we'll provide a regular health check on your investments and signal when you should think about rebalancing.
             third:
               title: Notifications
               description: With our notification service, sleep easy knowing we are watching your investments ready to notify you, if you've a critical decision to make.
           cta: Try for Free (14 Days)
           upgrade: Set payment details
-          trialing: Trialing - Set payment details
+          trialing: Trialling - Set payment details
           active: Already Subscribed
           cost: $5 per month
           summary: (Smart Alerts, Your Portfolio, Notifications)
@@ -233,7 +233,7 @@ en:
       title: Portfolio Breakdown
     broker:
       unlink: Unlink broker and delete account information
-      unlinkError: Cound not unlink your account
+      unlinkError: Could not unlink your account
     danger:
       button: Unlink broker
       description: Unlinking your broker will delete your broker details held at Stockflare.  We will delete all accounts and positions information that we hold, however we will retain details of any orders you placed through Stockflare for Audit purposes.
@@ -373,7 +373,7 @@ en:
         button: Disconnect Account
         cancel: Cancel Order
         cancel_confirm: Are you sure you wish to cancel your order?
-        canceled: Successfully canceled your order of %n
+        canceled: Successfully cancelled your order of %n
         canceled_error: Could not cancel your order of %n
         cancelling: Cancelling your order of %n
         warning: Disconnecting your brokerage account will remove all your data stored on our servers.
@@ -432,7 +432,7 @@ en:
               market: At Market Order
             prompt: Order Type
             tooltip: The default setting is a limit order, but if you want to trade, at market, regardless of the price, you can choose that option here.
-            warning: If you choose an "At Market" order you will trade regardless of the price. i.e. you will not set a maximimum price to buy or a minimum price to sell.
+            warning: If you choose an "At Market" order you will trade regardless of the price. i.e. you will not set a maximum price to buy or a minimum price to sell.
           prompt: Show Advanced Settings
           unprompt: Hide Advanced Settings
         button: Preview Order
@@ -443,7 +443,7 @@ en:
           sell: Sell at / or higher than
           custom: Custom Amount
           choose: Choose Amount
-          tooltip: This is a limit order, preset at the bid-ask spread. Click Advanced settings if you want to place a Market Order or a Limit order that is "good until close".
+          tooltip: This is a limit order, pre-set at the bid-ask spread. Click Advanced settings if you want to place a Market Order or a Limit order that is "good until close".
         quantity:
           note_no_shares: Currently, you do not own any shares in %n
           note_own_shares: Today you own %n shares in %n
@@ -466,7 +466,7 @@ en:
   common:
     alerts_emails:
       true: Send emails
-      false: Dont send emails
+      false: Do not send emails
     countries:
       afg: Afghanistan
       ago: Angola
@@ -1227,7 +1227,7 @@ en:
       mega-losses:
         name: 'Mega Losses'
         description: "There are a select few stocks that get big valuations despite their ability to lose money. Who's able to defy gravity?"
-        disclaimer: 'The stocks in Mega Losses are based on a filter of all stocks with a market value over $10 billion where the companies are foreast to lose money this year.'
+        disclaimer: 'The stocks in Mega Losses are based on a filter of all stocks with a market value over $10 billion where the companies are forecast to lose money this year.'
       super-cash:
         name: 'Super Cash'
         description: 'Earnings and dividends are just one way to look at cash flow. How about the cheapest stocks on a free-cash-flow basis.'
@@ -1356,7 +1356,7 @@ en:
           sector_code: '5320202014,5320203014,5320502013,5330104016,5330104017,5330104018,5330104019,5330104020,5340309023,5340304019'
         name: Sporting Outdoors
       taking-it-easy:
-        description: Who says you have to pick stocks be be good at investing! You could always just choose an ETF, an exchange traded fund. Most track a famous index. So you'll do as well as the market, even if you don't beat it!
+        description: Who says you have to pick stocks to be good at investing! You could always just choose an ETF, an exchange traded fund. Most track a famous index. So you'll do as well as the market, even if you don't beat it!
         disclaimer: 'The stocks in "Taking It Easy" are all ETFs (exchange traded funds), generated using a filter of all stocks with a market value over $10 billion that is in the following sector: Exchange Traded Funds.'
         filters:
           market_value_usd: 10000+
@@ -1429,7 +1429,7 @@ en:
         name: Worth It
       mega-losses:
         description:  There are a select few stocks that get big valuations despite their ability to lose money. Who's able to defy gravity?
-        disclaimer: 'The stocks in Mega Losses are based on a filter of all stocks with a market value over $10 billion where the companies are foreast to lose money this year.'
+        disclaimer: 'The stocks in Mega Losses are based on a filter of all stocks with a market value over $10 billion where the companies are forecast to lose money this year.'
         name: Mega Losses
       super-cash:
         description:  Earnings and dividends are just one way to look at cash flow. How about the cheapest stocks on a free-cash-flow basis.
@@ -1445,7 +1445,7 @@ en:
         name: Little Winners?
       young-and-old:
         description: From clothes to toys, regardless of age. There is an investment option for everyone.
-        disclaimer: 'The stocks in "Young & Old" are generated using a filter of all stocks with a market value over $1 billion that has passed at least 2 key metric tests (e.g. profitable, etc). We then look at the stocks that are in any of the following sectors: children''s clothing & footware, retirement homes, toys, cruise lines, children & teens retailers, baby food, birth control products, child care, funeral services, glasses & contact lenses, long-term care.'
+        disclaimer: 'The stocks in "Young & Old" are generated using a filter of all stocks with a market value over $1 billion that has passed at least 2 key metric tests (e.g. profitable, etc). We then look at the stocks that are in any of the following sectors: children's clothing & footwear, retirement homes, toys, cruise lines, children & teens retailers, baby food, birth control products, child care, funeral services, glasses & contact lenses, long-term care.'
         filters:
           country: usa
           market_value_usd: 1000+
@@ -1699,7 +1699,7 @@ en:
     pageTitle: Pick Stocks Easily
     question:
       content:
-        copy: 'Doing research on stocks doesn''t have to be complicated. Stockflare gets you to the key metrics on any stock in the world rapidly. '
+        copy: 'Doing research on stocks doesn't have to be complicated. Stockflare gets you to the key metrics on any stock in the world rapidly. '
         title: What is Stockflare?
     rating:
       content:
@@ -2322,12 +2322,12 @@ en:
       rating: Key metrics
       ric: Reuters ticker code
     explanations:
-      downside: 'Stockbrokers publish what they believe is the fair value of a stock, it''s called their Target Price. Our data vendor calculates the average from these experts. Here we show the percentage decrease to the Wall Street Target Price, from today''s stock price. Beware, it''s a subjective option from these experts, not objective. '
+      downside: 'Stockbrokers publish what they believe is the fair value of a stock, it's called their Target Price. Our data vendor calculates the average from these experts. Here we show the percentage decrease to the Wall Street Target Price, from today's stock price. Beware, it's a subjective option from these experts, not objective. '
       dps: A company pays dividends, like a bank pays interest. The Dividend-per-Share is what you get for each share you own.
-      eps: A company’s profit is owned by it’s shareholders. The Earnings-per-Share is what you theoretically earn for each share you have.
+      eps: A company’s profit is owned by its shareholders. The Earnings-per-Share is what you theoretically earn for each share you have.
       pe: PE ratio shows the share price versus the earnings-per-share. The higher the number the more expensive the stock.
       recommendation: Stockbrokers publish a Buy/ Sell/ Hold recommendation for each stock they analyze. Our data vendor Thomson Reuters calculates the average from these experts. This is a good indicator of "Wall Street's" sentiment. But beware, it's a subjective opinion, not objective.
-      upside: 'Stockbrokers publish what they believe is the fair value of a stock, it''s called their Target Price. Our data vendor calculates the average from these experts. Here we show the percentage increase to the Wall Street Target Price, from today''s stock price. Beware, it''s a subjective option from these experts, not objective. '
+      upside: 'Stockbrokers publish what they believe is the fair value of a stock, it's called their Target Price. Our data vendor calculates the average from these experts. Here we show the percentage increase to the Wall Street Target Price, from today's stock price. Beware, it's a subjective option from these experts, not objective. '
   user:
     fields:
       confirmPassword: Confirm Password
@@ -2427,7 +2427,7 @@ en:
         name: Watchlist Name
       points:
         infinite:
-          subtitle: There are absolutley no limits on our watchlists. Watch as many stocks as you like.
+          subtitle: There are absolutely no limits on our watchlists. Watch as many stocks as you like.
           title: Infinite Size
         monitor:
           subtitle: Determine your best & worst performing stocks using our data.
@@ -2539,7 +2539,7 @@ en:
         total: "Total"
     broker:
       unlink: "Unlink broker and delete account information"
-      unlinkError: "Cound not unlink your account"
+      unlinkError: "Could not unlink your account"
   mobile:
     about:
       links:
@@ -2601,7 +2601,7 @@ en:
           description: You need more than just price alerts. Get alerts on how the underlying business is performing. Best you know if the business is turning sour!
         second:
           title: Connected Portfolios
-          description: Connect your brokerage account and we'll provide a regular healthcheck on your investments and signal when you should think about rebalancing.
+          description: Connect your brokerage account and we'll provide a regular health-check on your investments and signal when you should think about rebalancing.
         third:
           title: Notifications
           description: With our notification service, sleep easy knowing we are watching your investments ready to notify you, if you've a critical decision to make.
@@ -2648,7 +2648,7 @@ en:
         subtitle: These are your brokerage details so we can fetch your portfolio
         status: Connecting
       connected:
-        title: Trading Activiated
+        title: Trading Activated
         subtitle: Below you can choose where to go to
         portfolioLabel: Go to Portfolio
         homepageLabel: Go to Homepage
@@ -2749,7 +2749,7 @@ en:
             growing: Growing faster than Competitors
             profitable: Profitable Company
             dividends: Pays Dividends
-            upside: Loved by Wallstreet Experts
+            upside: Loved by Wall Street's Experts
         price:
           label: Price
           values:
@@ -2951,8 +2951,8 @@ en:
       change: Change
       buyLimit: Limit
       sellLimit: Limit
-      reuthenticate: Reauthenticate
-      reuthenticateTest: To continue to trade you need to reauthenticate your trading account
+      reuthenticate: Re-authenticate
+      reuthenticateTest: To continue to trade you need to re-authenticate your trading account
       fractional:
         sellTitle: You own
         buyTitle: What $ amount?
@@ -2983,7 +2983,7 @@ en:
     portfolio:
       pendingTrades: Pending Trades
       reConnect:
-        title: Your account needs Reauthenticating
+        title: Your account needs Re-authenticating
         text: Your account does this every 30 days for security
     settings:
       title: My Settings
@@ -3138,7 +3138,7 @@ en:
         link: View your account settings
       gift_drive_wealth:
         subject: Your DriveWealth Gift has arrived!
-        body: "Thank you for trying out our service.  We have creditied your account with a 1 Month free Subscription to Stockflare Plus.  If you are a new user you will also get our 14 day free trial on top.  If you have not already done so you can link your DriveWealth account to Stockflare and get our alerts on the stocks that you own."
+        body: "Thank you for trying out our service.  We have credited your account with a 1 Month free Subscription to Stockflare Plus.  If you are a new user you will also get our 14 day free trial on top.  If you have not already done so you can link your DriveWealth account to Stockflare and get our alerts on the stocks that you own."
         link: Link your account
       refer:
         subject: One of your friends has signed up to Stockflare
