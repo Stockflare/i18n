@@ -3316,4 +3316,4 @@ en:
     default: "Please wait, fetching data"
     link: "Syncing with your broker. This may take up to 90 seconds."
   snow_migrate:
-    tryout: "Try the new version of Stockflare"
+    tryout: "Try the new version of Stockflare. It's faster & friendlier!"
