@@ -1412,8 +1412,8 @@ en:
         disclaimer: 'The stocks in Mega Dividends are based on a filter of all stocks with a market value over $500 that have a dividend yield over 5%. We exclude any outliers that have a forecast dividend higher than the forecast earnings.'
         name: Mega Dividends
       dividend-disasters:
-        description:  Imagine, Wall Street doesn't just rate some stocks a Buy but a select few are rated Strong Buy.
-        disclaimer: 'The stocks in Strong Buys are based on a filter of all stocks with a market value over $500m where the consensus recommendation is Strong Buy.'
+        description: "When companies are paying out more cash than they earn, it's time to worry. Perhaps the dividend isn't sustainable."
+        disclaimer: 'The Stocks in Dividend Disasters? are based on a filter of all stocks that have a market value over $500m but the forecast dividend per share is higher than the forecast earnings per share.'
         name: Dividend Disasters?
       strong-buys:
         description:  Imagine, Wall Street doesn't just rate some stocks a Buy but a select few are rated Strong Buy.
