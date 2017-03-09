@@ -2680,6 +2680,12 @@ en:
           watchlists: "Save unlimited watchlists"
           accounts: "Connect your brokerage account"
           health: "Get a regular health check on your investments"
+    paywall:
+      modal:
+        text: "This feaure is available only for premium users"
+        buy: Buy Premium
+      listInfo: "Get Stockflare Plus to access the complete list"
+      selectSuffix: "Premium"
     homepage:
       title: "Pick stocks easily"
       subtitle: "Pick stocks easily using our unique ratings"
