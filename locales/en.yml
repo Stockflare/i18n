@@ -1445,7 +1445,7 @@ en:
         name: Little Winners?
       young-and-old:
         description: From clothes to toys, regardless of age. There is an investment option for everyone.
-        disclaimer: 'The stocks in "Young & Old" are generated using a filter of all stocks with a market value over $1 billion that has passed at least 2 key metric tests (e.g. profitable, etc). We then look at the stocks that are in any of the following sectors: children's clothing & footwear, retirement homes, toys, cruise lines, children & teens retailers, baby food, birth control products, child care, funeral services, glasses & contact lenses, long-term care.'
+        disclaimer: "The stocks in 'Young & Old' are generated using a filter of all stocks with a market value over $1 billion that has passed at least 2 key metric tests (e.g. profitable, etc). We then look at the stocks that are in any of the following sectors: children's clothing & footwear, retirement homes, toys, cruise lines, children & teens retailers, baby food, birth control products, child care, funeral services, glasses & contact lenses, long-term care."
         filters:
           country: usa
           market_value_usd: 1000+
