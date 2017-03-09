@@ -2322,12 +2322,12 @@ en:
       rating: Key metrics
       ric: Reuters ticker code
     explanations:
-      downside: 'Stockbrokers publish what they believe is the fair value of a stock, it's called their Target Price. Our data vendor calculates the average from these experts. Here we show the percentage decrease to the Wall Street Target Price, from today's stock price. Beware, it's a subjective option from these experts, not objective. '
+      downside: "Stockbrokers publish what they believe is the fair value of a stock, it's called their Target Price. Our data vendor calculates the average from these experts. Here we show the percentage decrease to the Wall Street Target Price, from today's stock price. Beware, it's a subjective option from these experts, not objective. "
       dps: A company pays dividends, like a bank pays interest. The Dividend-per-Share is what you get for each share you own.
       eps: A company’s profit is owned by its shareholders. The Earnings-per-Share is what you theoretically earn for each share you have.
       pe: PE ratio shows the share price versus the earnings-per-share. The higher the number the more expensive the stock.
       recommendation: Stockbrokers publish a Buy/ Sell/ Hold recommendation for each stock they analyze. Our data vendor Thomson Reuters calculates the average from these experts. This is a good indicator of "Wall Street's" sentiment. But beware, it's a subjective opinion, not objective.
-      upside: 'Stockbrokers publish what they believe is the fair value of a stock, it's called their Target Price. Our data vendor calculates the average from these experts. Here we show the percentage increase to the Wall Street Target Price, from today's stock price. Beware, it's a subjective option from these experts, not objective. '
+      upside: "Stockbrokers publish what they believe is the fair value of a stock, it's called their Target Price. Our data vendor calculates the average from these experts. Here we show the percentage increase to the Wall Street Target Price, from today's stock price. Beware, it's a subjective option from these experts, not objective. "
   user:
     fields:
       confirmPassword: Confirm Password
