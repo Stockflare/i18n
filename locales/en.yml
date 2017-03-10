@@ -2682,8 +2682,13 @@ en:
           health: "Get a regular health check on your investments"
     paywall:
       modal:
-        text: "This feaure is available only for premium users"
-        buy: Buy Premium
+        logged:
+          text: "Just $5.95 a month for access to Stockflare Plus?"
+          buy: Tell me more!
+        notLogged:
+          text: "Register to get a free 14-day trial of Stockflare Plus. No card required!"
+          buy: Free Trial
+        close: Close
       listInfo: "Get Stockflare Plus to access the complete list"
       selectSuffix: "Premium"
     homepage:
