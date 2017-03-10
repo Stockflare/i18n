@@ -3021,6 +3021,31 @@ en:
         language: Language
       saveBtn: Apply Changes
       logoutBtn: Logout
+    subscribe:
+      title: Subscribe
+      monthly: Monthly
+      action: "Yes, I'll sign up now!"
+      invite: Invite friends for a free month
+      disclaimer: "DriveWealth's super-discount of $0.01 a share traded is available to all paying Stockflare Plus subscribers. It is not available to users on our 14 day trial. Non-US residents need to complete a W8-BEN form on opening their account, with a one-off $5 admin fee. The $0.01 a share price, is before all SEC and exchange fees. See here[stockflare.com/drivewealth] for more details."
+      sections:
+        data:
+          title: Premium Data
+          text: "Access to exclusive Explore categories and proprietary data"
+        alerts:
+          title: Premium Alerts
+          text: "Get key notifications on your stocks, portfolio and on new ideas"
+        tools:
+          title: Exclusive Tools
+          text: "Access to our full suite of charting tools, stock screeners, and portfolio health checks"
+        personalisation:
+          title: More Personalisation
+          text: "Enjoy a more personalized experience, saving you valuable time"
+        trading:
+          title: "$0.01 a share trading*"
+          text: "Get super-discounted pricing from our partner, DriveWealth, as a reward for joining Stockflare Plus"
+        ads:
+          title: No Advertising
+          text: "No ads to distract you from the core purpose of making better investment decisions."
     watchlist:
       newWatchlist: Create watchlist
       myWatchlist: My Watchlist
