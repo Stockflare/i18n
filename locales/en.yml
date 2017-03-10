@@ -2373,7 +2373,7 @@ en:
     earning:
       title: Performance
       gain: '%n month gain'
-      investedAt: Invested at price
+      investedAt: portfolio average
     valuation:
       title: Valuation
       basis: 'Based on %n profitable stocks'
