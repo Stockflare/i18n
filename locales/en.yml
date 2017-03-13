@@ -3282,25 +3282,25 @@ en:
       reuters: "Our analysis is built upon world class data from Reuters"
     sectons:
       picking:
-        image_url: "https://public.stockflare.com/assets/hodor_landing/image-browser.png"
-        cta_url: "/$/stocks/amzn.o"
+        image_url: "https://public.stockflare.com/assets/hodor_landing/snow-image-browser.png"
+        cta_url: "https://m.stockflare.com/stock/amzn.o"
         title: "Stockpicking Made Easy"
         description: "At Stockflare, our algorithms turn large quantities of data into easy to use analysis. With our tools, anyone can pick stocks easily."
         cta: "See Amazon, Inc"
       link:
-        cta_url: "/$/portfolio/link"
+        cta_url: "https://m.stockflare.com/connect"
         title: "Connect, Explore, Buy"
         description: "Securely connect your US brokerage account and import your portfolio to Stockflare. Get our analysis on your live investments."
         cta: "Connect My Brokerage"
       drivewealth:
         image_url: "https://public.stockflare.com/assets/hodor_landing/image-newbroker.png"
-        cta_url: "/$/drivewealth"
+        cta_url: "https://m.stockflare.com/drivewealth"
         title: "Invest in the US"
         description: "From anywhere in the world, Stockflare users can open a US account with our partner DriveWealth LLC. No minimums. Less than $3 a trade*."
         cta: "Open An Account"
       subscribe:
         image_url: "https://public.stockflare.com/assets/hodor_landing/graphic-alerts.png"
-        cta_url: "/subscribe"
+        cta_url: "https://m.stockflare.com/subscribe"
         title: "Sleep Easy with Plus"
         description: "Sign up for Stockflare Plus and have us monitor your portfolio 24/7. Our algorithms watch for changes in the underlying businesses you’ve invested in."
         cta: "Start Your Free 14-Day Trial"
