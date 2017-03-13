@@ -274,10 +274,10 @@ en:
     cta:
       alternative:
         button: "Find Alternatives?"
-        url: "https://stockflare.com/$/stocks/%ric/breakdown/peers"
+        url: "https://m.stockflare.com/stock/%ric"
       buy:
         button: "Time to Review it?"
-        url: "https://stockflare.com/$/stocks/%ric"
+        url: "https://m.stockflare.com/stock/%ric"
   appender:
     add: Add Stock
     noMatches: 0 Matches
