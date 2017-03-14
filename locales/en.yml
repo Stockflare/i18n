@@ -2671,6 +2671,33 @@ en:
         tradeit: "Trading Ticket Inc"
       partOne: '%pagesLink is an information service provided on an "as is" and "as available" basis. We do not provide advice and do not make recommendations. We are a research tool for self-directed investors. Please read our %tosLink.'
       partTwo: 'End-of-day pricing data, fundamentals and estimates are provided by %reutersLink. Delayed pricing data for BATS, AMEX, NYSE, and NASDAQ are provided by %barchartLink and is at least 10 minutes delayed. Real-time pricing is provided free by %iexLink. Integration for US brokerage firms is powered by %tradeitLink.'
+    drivewealth:
+      title: 'Start Investing in the US'
+      featurrs:
+        simple:
+          title: A simple service
+          text: "DriveWealth LLC offers a simple broker account focused on the top 3,000 stocks in the US"
+        anyone:
+          title: Anyone can apply
+          text: "You don't have to be a US Resident to apply. DriveWealth LLC has clients in 50+ countries."
+        minimums:
+          title: No minimums
+          text:  DriveWealth's service is for any investor with no minimum opening balance.
+        decide:
+          title: You decide
+          text: "No need to buy in lots of shares, decide to buy $50 of a $20 stock, get 2.5 shares."
+        leverage:
+          title: Like leverage?
+          text: "DriveWealth LLC offer margin accounts too, with an interest rate equal to the Fed Funds rate + 4%."
+        stockflare:
+          title: Stockflare friendly
+          text: "Oh, and don't forget, you can connect your DriveWealth account to Stockflare."
+      buttons:
+        first: standard $2.99
+        second: $0.01
+        account: Already Have An Account?
+      whyNotNow: Why not connect it now?
+      disclaimer: "DriveWealth LLC is a registered dealer-broker in the United States and a member of FINRA and SIPC. Please visit their website for more information. Non-US Residents must complete a Form W-8BEN for US Inland Revenue Service. There is a one off $5 charge to your brokerage account. All Stockflare users can apply for a DriveWealth Classic account. Only Stockflare Plus subscribers get the super-discounted price of $0.01 a share traded. Note: additional SEC and TAF fees apply. For details, see DriveWealth's full fee schedule."
     register:
       ad:
         title: "Why Register?"
