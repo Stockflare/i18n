@@ -2643,6 +2643,7 @@ en:
         createAccountTitle: "Not Joined Stockflare Yet?"
         createAccountText: "Register and test out our full range of data and analytics. You can connect your live brokerage account and get key insights into your investments. Never miss out on key events with our alerts & notifications. So what are you waiting for?"
     connect:
+      getAccount: Get an account
       connecting:
         title: Logging In
         subtitle: These are your brokerage details so we can fetch your portfolio
@@ -3051,6 +3052,9 @@ en:
     subscribe:
       title: Subscribe
       monthly: Monthly
+      refer: "Free? Invite Friends!"
+      trailLeft: "%n day left of Trial"
+      premium: "$5.95 a month"
       action: "Yes, I'll sign up now!"
       invite: Invite friends for a free month
       disclaimer: "DriveWealth's super-discount of $0.01 a share traded is available to all paying Stockflare Plus subscribers. It is not available to users on our 14 day trial. Non-US residents need to complete a W8-BEN form on opening their account, with a one-off $5 admin fee. The $0.01 a share price, is before all SEC and exchange fees. See here[stockflare.com/drivewealth] for more details."
