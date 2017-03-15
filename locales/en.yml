@@ -3299,14 +3299,14 @@ en:
       sign_up: Sign up for free
       login: Login
     hero:
-      title: Worry Free Investing
-      description: "Sleep easy knowing Stockflare monitors your portfolio, always keeping you up-to-date"
+      title: Pick Stocks Easily
+      description: "Investing doesn't have to be complicated. Get to the key information quickly with Stockflare."
       cta: Get Started
     features:
-      global: "Stock picking made easy for any stock market globally"
-      sec: "Access our US SEC registered investment advisor"
-      alerts: "Our Plus alerts keep you in the know 24/7"
-      reuters: "Our analysis is built upon world class data from Reuters"
+      global: "Clear analysis on over 45,000 stocks across the globe"
+      sec: "Connect your brokerage account to get personalized insights"
+      alerts: "Critical alerts and notification keeping you up to date"
+      reuters: "A service built upon the world class data of Reuters"
     sectons:
       picking:
         image_url: "https://public.stockflare.com/assets/hodor_landing/snow-image-browser.png"
@@ -3317,7 +3317,7 @@ en:
       link:
         cta_url: "https://m.stockflare.com/connect"
         title: "Connect, Explore, Buy"
-        description: "Securely connect your US brokerage account and import your portfolio to Stockflare. Get our analysis on your live investments."
+        description: "Securely connect your brokerage account and import your portfolio to Stockflare. Get our analysis on your live investments."
         cta: "Connect My Brokerage"
       drivewealth:
         image_url: "https://public.stockflare.com/assets/hodor_landing/image-newbroker.png"
@@ -3332,8 +3332,8 @@ en:
         description: "Sign up for Stockflare Plus and have us monitor your portfolio 24/7. Our algorithms watch for changes in the underlying businesses you’ve invested in."
         cta: "Start Your Free 14-Day Trial"
     register:
-      title: "Join for Free. Always Free."
-      description: "Register now to keep track of your favourite stocks"
+      title: "Join for Free."
+      description: "Register if you'd like a personalized service."
       form:
         email:
           placeholder: "Your Email Address"
@@ -3365,10 +3365,10 @@ en:
       block:
         operated: "This website is operated and maintained by Stockflare Limited, a UK company. Access our filings at the UK's"
         companies_house: "CompaniesHouse.gov.uk"
-        information_only: "Stockflare’s free service provides information only, no advice, no recommendations. Please make sure you understand our Terms of Service. If you don’t, please contact us with your questions."
-        drivewealth: "*Our partner DriveWealth LLC's standard commission rate is $0.0125 per share, with a minimum of $2.99. Fractional share commissions are $0.99 for each transaction less than one full share."
+        information_only: "Stockflare is an information service provided on an "as is" and "as available" basis. We do not provide advice and do not make recommendations. We are a research tool for self-directed investors. Please make sure you understand our Terms of Service. If you don’t, please contact us with your questions."
+        drivewealth: "*Our partner DriveWealth LLC's standard commission rate is $0.0125 per share, with a minimum of $2.99. Fractional share commissions are $0.99 for each transaction less than one full share. Stockflare Plus subscribers receive a super-discounted commission rate of $0.01 a share."
         usa:
-          sec: "In the United States, our wholly owned subsidiary, Stockflare USA, Inc, is an SEC Registered Investment Advisor. For details visit the SEC's website at"
+          sec: "In the United States we operate via our wholly owned subsidiary, Stockflare USA, Inc. Stockflare USA, Inc. is an SEC Registered Investment Advisor. For details visit the SEC's website at"
           iapd: "adviserinfo.sec.gov/IAPD/"
           download: "or download our Disclosure Brochure"
           here: here
