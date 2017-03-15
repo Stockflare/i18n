@@ -2549,6 +2549,8 @@ en:
         data: Our data partners
         tos: Terms of service
         privacy: Privacy policy
+        plus: Stockflare Plus
+        broker: "A new brokerage account?" 
     account:
       breakdown:
         title: Portfolio Analytics
