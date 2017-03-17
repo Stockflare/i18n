@@ -2700,7 +2700,7 @@ en:
         second: $0.01
         account: Already Have An Account?
       whyNotNow: Why not connect it now?
-      disclaimer: "DriveWealth LLC is a registered dealer-broker in the United States and a member of FINRA and SIPC. Please visit their website for more information. Non-US Residents must complete a Form W-8BEN for US Inland Revenue Service. There is a one off $5 charge to your brokerage account. All Stockflare users can apply for a DriveWealth Classic account. Only Stockflare Plus subscribers get the super-discounted price of $0.01 a share traded. Note: additional SEC and TAF fees apply. For details, see DriveWealth's full fee schedule."
+      disclaimer: "Access to DriveWealth's Unlimited subscription based plan of $0.01 a share traded is available to all paying Stockflare Plus subscribers. It is not available to users on our 14 day trial. Non-US residents need to complete a W8-BEN form on opening their account, with a one-off $5 admin fee. Note: Additional SEC and TAF fees apply to the $0.01 a share price. DriveWealth LLC is a registered dealer-broker in the United States and a member of FINRA and SIPC. Please visit their website for more information and a full fee schedule."
     register:
       ad:
         title: "Why Register?"
@@ -3059,7 +3059,7 @@ en:
       premium: "$5.95 a month"
       action: "Yes, I'll sign up now!"
       invite: Invite friends for a free month
-      disclaimer: "DriveWealth's super-discount of $0.01 a share traded is available to all paying Stockflare Plus subscribers. It is not available to users on our 14 day trial. Non-US residents need to complete a W8-BEN form on opening their account, with a one-off $5 admin fee. The $0.01 a share price, is before all SEC and exchange fees. See here[stockflare.com/drivewealth] for more details."
+      disclaimer: "Access to DriveWealth's Unlimited subscription based plan of $0.01 a share traded is available to all paying Stockflare Plus subscribers. It is not available to users on our 14 day trial. Non-US residents need to complete a W8-BEN form on opening their account, with a one-off $5 admin fee. Note: Additional SEC and TAF fees apply to the $0.01 a share price. DriveWealth LLC is a registered dealer-broker in the United States and a member of FINRA and SIPC. Please visit their website for more information and a full fee schedule. "
       sections:
         data:
           title: Premium Data
@@ -3075,7 +3075,7 @@ en:
           text: "Enjoy a more personalized experience, saving you valuable time"
         trading:
           title: "$0.01 a share trading*"
-          text: "Get super-discounted pricing from our partner, DriveWealth, as a reward for joining Stockflare Plus"
+          text: "Access to DriveWealth’s Unlimited plan offering $0.01 per share trading platform is available, as a reward for joining Stockflare Plus"
         ads:
           title: No Advertising
           text: "No ads to distract you from the core purpose of making better investment decisions."
@@ -3372,7 +3372,7 @@ en:
         operated: "This website is operated and maintained by Stockflare Limited, a UK company. Access our filings at the UK's"
         companies_house: "CompaniesHouse.gov.uk"
         information_only: "Stockflare is an information service provided on an 'as is' and 'as available' basis. We do not provide advice and do not make recommendations. We are a research tool for self-directed investors. Please make sure you understand our Terms of Service. If you don’t, please contact us with your questions."
-        drivewealth: "*Our partner DriveWealth LLC's standard commission rate is $0.0125 per share, with a minimum of $2.99. Fractional share commissions are $0.99 for each transaction less than one full share. Stockflare Plus subscribers receive a super-discounted commission rate of $0.01 a share."
+        drivewealth: "*Our partner DriveWealth LLC's standard commission rate is $0.0125 per share, with a minimum of $2.99. Fractional share commissions are $0.99 for each transaction less than one full share. Access to DriveWealth’s Unlimited plan offering $0.01 per share trading platform is available, as a reward for joining Stockflare Plus."
         usa:
           sec: "In the United States we operate via our wholly owned subsidiary, Stockflare USA, Inc. Stockflare USA, Inc. is an SEC Registered Investment Advisor. For details visit the SEC's website at"
           iapd: "adviserinfo.sec.gov/IAPD/"
