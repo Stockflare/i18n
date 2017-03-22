@@ -61,10 +61,10 @@ en:
           upgrade: Set payment details
           trialing: Trialling - Set payment details
           active: Already Subscribed
-          cost: $5 per month
+          cost: $5.95 per month
           summary: (Smart Alerts, Your Portfolio, Notifications)
           payment:
-            description: Billed monthly after your trial ends.
+            description: $5.95 billed monthly.
             button: Subscribe
 
   notifications:
@@ -2616,7 +2616,7 @@ en:
           extend: Extend your trial to not miss out
           left: "%n days left of your Stockflare Plus"
           get: Get Stockflare Plus Alerts
-          text: Only $5 per month, Cancel Anytime
+          text: Only $5.95 per month, Cancel Anytime
           upgrade: Upgrade
       subtitle: "Here are alerts for the stocks you're watching"
       empty:
