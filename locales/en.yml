@@ -27,7 +27,7 @@ en:
   subscriptions:
     subscribed:
       title: Successfully Supercharged!
-      description: 'After the free trial, we will get in contact to ask for your card details. Then, if you sign-up, you will be billed %n until the plan is cancelled.'
+      description: 'Thank you for signing up, you will be billed %n until the plan is cancelled.'
       buttons:
         portfolio: View my Portfolio
         alerts: View my Alerts
