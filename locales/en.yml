@@ -1060,6 +1060,7 @@ en:
       pt-PT: Portuguese
       zh-CN: 中文
       zh-HK: 粵語
+      ar: عربى
     loading: Loading...
     login: Login
     pages:
@@ -2551,7 +2552,7 @@ en:
         tos: Terms of service
         privacy: Privacy policy
         plus: Stockflare Plus
-        broker: "A new brokerage account?" 
+        broker: "A new brokerage account?"
     account:
       breakdown:
         title: Portfolio Analytics
