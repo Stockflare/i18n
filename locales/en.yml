@@ -3002,7 +3002,7 @@ en:
         perShareLabel: Switch to per-share buying
         dolarBased: Switch back to $-based trading
       warning:
-        quantity: "Quantity can't bet higher than %n"
+        quantity: "Quantity can't be higher than %n"
       type:
         label: Order type
         limit: Limit Order
