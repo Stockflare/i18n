@@ -2662,6 +2662,22 @@ en:
         connectBtn: "Login to %n"
       noAccount: "I don't have a brokerage"
       info: "By clicking 'login' you agree to our terms of service"
+    dashboard:
+      topBox:
+        yourMoney: Your Money
+        accounts:
+          worth: Accounts Worts
+          gain: Accounts Gain
+        watchlists:
+          worth: Watchlists Worts
+          gain: Watchlists Gain
+      titles:
+        moversAndShakers: Movers & Shakers
+        bokers: My Brokerages
+        watchlists: My Watchlists
+        alerts: Plus Alerts
+        explore: Explore by Theme
+        freeAlerts: Alerts
     explore:
       title: Explore stocks
       subtitle: "Explore stocks within different / convenient baskets"
@@ -2850,13 +2866,28 @@ en:
               highWeek: Near 52 Week High
               lowWeek: Near 52 Week Low
     stock:
+      topBox:
+        price: Stock Price
+        percentage: Percentage Change
+        actual: Actual Change
       alerts:
         header: Alerts
+        currentAlerts: Current Alerts
+        plusAlerts: Plus Alerts
         noAlerts:
           firstLine: "No alerts for %n"
           secondLine: Everything must be fine!
         alertsWaiting: "%n Plus alerts waiting"
         subscribeAlerts: "Subscribe just for $5.95"
+      chart:
+        buttons:
+          oneDay: 1D
+          oneMonth: 1M
+          threeMonths: 3M
+          oneYear: 1Y
+          twoYears: 2Y
+          fiveYears: 5Y
+          tenYears: 10Y
       latest: Latest results
       description: Stock Description
       visit: Visit
@@ -2880,6 +2911,10 @@ en:
       website: Website
       million: million
       statistics:
+        headers:
+          cashDebt: "Cash / Debt Level"
+          sales: Sales Forecast
+          valuation: Valuation
         enterpriseValue: Enterprise Value
         marketValue: Market Value
         netDebt: Net Debt
@@ -3020,14 +3055,24 @@ en:
     portfolios:
       title: Portfolios
       subtitle: Browse your accounts
+      new: New Brokerage
       empty:
         title: No Brokerages Connected
         text: "You've not connected a brokerage account to Stockflare. Why not give it a go?"
     portfolio:
       pendingTrades: Pending Trades
+      count:
+        one: "1 Company"
+        many: "%n Companies"
+      connect: Connect
+      reconnect: Reconnect
       reConnect:
         title: Your account needs Re-authenticating
         text: Your account does this every 30 days for security
+      table:
+        name: Name
+        starRating: Star Rating
+        actions: Actions
     settings:
       title: My Settings
       subtitle: Change your personal setting here for Stockflare
@@ -3098,6 +3143,8 @@ en:
       form:
         price: Price
         amount: Amount
+    watchlists:
+      new: New Watchlist
   widgets:
     title: Analysis by Stockflare
     empty: No Widget Available
