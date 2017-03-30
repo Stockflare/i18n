@@ -3064,7 +3064,7 @@ en:
       count:
         one: "1 Company"
         many: "%n Companies"
-      connect: Connect
+      connected: Connected
       reconnect: Reconnect
       reConnect:
         title: Your account needs Re-authenticating
